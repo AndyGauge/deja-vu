@@ -473,7 +473,8 @@ const rawParts = [
         body: 'Phillips documented a statistically significant rise in suicides following front-page US newspaper reports of celebrity suicides. The protective Papageno effect — the reduction that follows stories of survival and recovery — was characterized decades later. Algorithmic feeds publish both in an undifferentiated stream.',
         citation: 'Phillips, D. P. (1974). *American Sociological Review*, 39(3), 340–354.',
         link: 'https://en.wikipedia.org/wiki/Werther_effect',
-        eli5: 'A sociologist named David Phillips noticed that after newspapers ran front-page stories about celebrity suicides, the real suicide rate went up. He called it the Werther effect. Later research found the opposite too: stories about people who survived and recovered actually help lower the rate.'
+        eli5: 'A sociologist named David Phillips noticed that after newspapers ran front-page stories about celebrity suicides, the real suicide rate went up. He called it the Werther effect. Later research found the opposite too: stories about people who survived and recovered actually help lower the rate.',
+        narrator: 'Phillips found that talking about suicide propagates it. My experience was the opposite — naming the feeling made it go away. Both are true. The distinction is how it is named. When somebody names it as a solution, it seems like a good one. When you name it as a thought, it seems like a bad one. The reinforcement runs in opposite directions. Werther named it as the answer. Papageno named it as a feeling that passed. The protocols in this book name it the second way — with a witness, so the name becomes the distance.'
       },
       {
         title: 'What Meta Knew',

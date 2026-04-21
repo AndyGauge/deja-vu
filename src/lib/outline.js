@@ -842,7 +842,8 @@ const rawParts = [
         body: 'At the moment of rising rumination or reactive emotion, name one alternative interpretation of the triggering event. Not a denial; a reframe. "This is about their day, not about me" is the shape. The first dozen times it is clumsy. Within weeks the shift becomes available within a second. Gross’s emotion-regulation literature supports it with effect sizes larger than most therapeutic techniques.',
         citation: 'Gross, J. J. & John, O. P. (2003). *Journal of Personality and Social Psychology*, 85(2), 348–362.',
         link: 'https://en.wikipedia.org/wiki/Cognitive_reappraisal',
-        eli5: 'In the moment you feel a strong reaction rising, say one sentence to yourself that reinterprets the situation. Not pretending it didn’t happen — just reframing. “This is about their day, not about me” is the shape. It feels clumsy at first. Within a few weeks it becomes automatic and actually changes how you feel.'
+        eli5: 'In the moment you feel a strong reaction rising, say one sentence to yourself that reinterprets the situation. Not pretending it didn’t happen — just reframing. “This is about their day, not about me” is the shape. It feels clumsy at first. Within a few weeks it becomes automatic and actually changes how you feel.',
+        narrator: 'Another shocking revelation: this ability does not need to wait for a therapist. Our bodies have real-time access to reprogramming. It is as easy as the words we choose to respond with. If the first reaction is harmful and we choose not to say it, we have begun reprogramming. That is as simple as it gets. Feel bad about saying the wrong thing. Over time, the feeling moves earlier — from after the words to during them to before them. When the feeling happens before the words, the action is to change them. That is pre-cognition. That is reappraisal installed.'
       },
       {
         title: 'Turning Toward',

@@ -497,7 +497,19 @@
     .body {
       grid-template-columns: 1fr;
     }
-    .number, .title, .gesture { grid-column: 1; }
+    .number,
+    .title,
+    .gesture,
+    .quote,
+    .body-text,
+    .source,
+    .eli5 {
+      grid-column: 1;
+    }
     .gesture { padding-left: 1rem; }
+    .body-text { padding-left: 1rem; }
+    .quote { padding-left: 2.4rem; }
+    .source { padding-left: 1rem; }
+    .eli5 { max-width: none; }
   }
 </style>

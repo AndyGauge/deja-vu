@@ -96,7 +96,7 @@ const rawParts = [
         citation: 'van der Kolk, B. A. (1994). *Harvard Review of Psychiatry*, 1(5), 253–265.',
         link: 'https://en.wikipedia.org/wiki/Bessel_van_der_Kolk',
         eli5: 'Bessel van der Kolk argued that when someone goes through trauma, the memory doesn’t always become a clean story. Instead it can live in the body — as tension, as flinching, as reactions — even when the person can’t put it into words. The title of his famous paper says it: “The body keeps the score.”',
-        narrator: 'The body keeps what the narrative cannot. When I looked for the story of the thing that was locked, I could not find it. But the body had an account — a flinch, a posture, a hesitation at a name. Van der Kolk was not being poetic. He was telling me where my evidence was.'
+        narrator: 'The body keeps what the narrative cannot. When I looked for the story of the thing that was locked, I could not find it. But the body had an account — a flinch, a posture, a hesitation at a name. Van der Kolk was not being poetic. He was telling me where my evidence was. This is where it gets interesting. Medical symptoms can be rooted in psychophysical structures. Digestion. Sleep. Chronic pain. Autoimmune flare. These are trauma manifesting as body. The body feels things it does not name. Reprogramming is not just a thing we choose to do. It is actively happening to people, with evidence, in the wrong direction. The choice is not whether to be reprogrammed. The choice is which direction.'
       },
       {
         title: 'Dissociative Amnesia',

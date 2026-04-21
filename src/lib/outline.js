@@ -596,7 +596,7 @@ const rawParts = [
         citation: 'Pennebaker, J. W. & Beall, S. K. (1986). *Journal of Abnormal Psychology*, 95(3), 274–281.',
         link: 'https://en.wikipedia.org/wiki/Expressive_writing',
         eli5: 'James Pennebaker asked college students to write about the worst experiences of their lives — fifteen to twenty minutes a day for four days in a row. The students who did this had fewer doctor visits in the months that followed than students who wrote about random topics. Hundreds of follow-up studies have confirmed that this kind of honest writing actually improves physical and mental health.',
-        narrator: 'Twenty minutes. Four days. The writing is the witness the fifth step demanded, delivered in a different form. You are not typing to be read. You are typing to get the thing out of the body and onto the page — where the brain can see it, where the window can close around a different ending. This is the protocol I used. The one that let me feel what had been packed away.'
+        narrator: 'Twenty minutes. Four days. That was Pennebaker’s original protocol. The yield has changed. We can trace years of progressive steps in minutes — twenty minutes of writing might be a hundred pages with an LLM to draft. But volume is not reinforcement. It is the reading and revising that acts as the reinforcement. The pattern matcher drafts; the human consolidates. What gets read back — slowly, with attention, with correction — is what sticks. This is the protocol I used. The one that let me feel what had been packed away.'
       },
       {
         title: 'The Midnight Disease',

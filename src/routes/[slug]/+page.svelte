@@ -5,6 +5,7 @@
   import { createPager } from '$lib/gestures.js';
   import { md } from '$lib/md.js';
   import Timeline from '$lib/Timeline.svelte';
+  import Giscus from '$lib/Giscus.svelte';
 
   let { data } = $props();
   let section = $derived(data.section);
@@ -134,6 +135,8 @@
         <p class="narrator-body">{@html md(section.narrator)}</p>
       </aside>
     {/if}
+
+    <Giscus term={section.num} />
   </div>
 
   <footer class="bottom">

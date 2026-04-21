@@ -1,5 +1,6 @@
 <script>
   import { onMount, onDestroy } from 'svelte';
+  import { base } from '$app/paths';
 
   let { term } = $props();
 
@@ -9,6 +10,7 @@
   function mount(t) {
     if (!containerEl) return;
     containerEl.innerHTML = '';
+    const themeUrl = `${window.location.origin}${base}/giscus.css`;
     const s = document.createElement('script');
     s.src = 'https://giscus.app/client.js';
     s.setAttribute('data-repo', 'AndyGauge/deja-vu');
@@ -21,7 +23,7 @@
     s.setAttribute('data-reactions-enabled', '1');
     s.setAttribute('data-emit-metadata', '0');
     s.setAttribute('data-input-position', 'top');
-    s.setAttribute('data-theme', 'light');
+    s.setAttribute('data-theme', themeUrl);
     s.setAttribute('data-lang', 'en');
     s.setAttribute('data-loading', 'lazy');
     s.crossOrigin = 'anonymous';
@@ -46,27 +48,39 @@
   });
 </script>
 
-<div class="giscus-wrap">
+<aside class="giscus-wrap">
   <div class="giscus-label">Responses</div>
-  <div bind:this={containerEl}></div>
-</div>
+  <div class="giscus-frame" bind:this={containerEl}></div>
+</aside>
 
 <style>
   .giscus-wrap {
     grid-column: 2;
+    max-width: 60ch;
     margin-top: 2.4rem;
-    padding-top: 1.6rem;
-    border-top: 1px solid rgba(20, 17, 13, 0.12);
+    padding-top: 1.2rem;
+    padding-left: 1.3rem;
+    border-top: 1px solid var(--ink, #14110d);
   }
   .giscus-label {
-    font-family: 'Inter', sans-serif;
-    font-size: 0.72rem;
-    letter-spacing: 0.14em;
+    font-family: var(--sans, 'Inter', sans-serif);
+    font-size: 0.62rem;
+    letter-spacing: 0.3em;
     text-transform: uppercase;
-    color: rgba(20, 17, 13, 0.55);
+    color: var(--ink, #14110d);
     margin-bottom: 1rem;
   }
+  .giscus-frame :global(.giscus) {
+    width: 100%;
+  }
+  .giscus-frame :global(.giscus-frame) {
+    width: 100%;
+  }
   @media (max-width: 720px) {
-    .giscus-wrap { grid-column: 1; }
+    .giscus-wrap {
+      grid-column: 1;
+      max-width: none;
+      padding-left: 1rem;
+    }
   }
 </style>

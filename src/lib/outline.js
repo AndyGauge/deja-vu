@@ -272,7 +272,8 @@ const rawParts = [
         body: 'Kalichman’s book-length review documented the consistent finding that non-trivial fractions of patients across surveys edited or withheld disclosures because of the reporter duty. The chilling effect is measurable. Policy debates on mandatory reporting routinely under-weight it.',
         citation: 'Kalichman, S. C. (1999). *Mandated Reporting of Suspected Child Abuse* (2nd ed.). American Psychological Association.',
         link: 'https://en.wikipedia.org/wiki/Mandated_reporter',
-        eli5: 'Seth Kalichman collected research showing that when patients know certain things they tell their therapist will trigger a mandatory report, they hold back. They edit what they say. The rule meant to keep people safe also makes some people stop being fully honest in therapy.'
+        eli5: 'Seth Kalichman collected research showing that when patients know certain things they tell their therapist will trigger a mandatory report, they hold back. They edit what they say. The rule meant to keep people safe also makes some people stop being fully honest in therapy.',
+        narrator: 'When the therapist cannot be trusted with the truth — when the protocol is the abuse — the client’s ability to seek therapy breaks. This is what happened to me. I went in for reprogramming. I received State Protocol. What that reinforced was non-disclosure. Kalichman’s research named the pattern in aggregate. I lived the single case. This is the scariest page of the book because it is real. The people who actually need help are the ones being told "not here" everywhere they go. They stop asking. That is the statistic that never gets published — the one that would show up if anyone counted the people who never walked back in.'
       },
       {
         title: 'Iatrogenic Silence',

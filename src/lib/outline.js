@@ -397,7 +397,8 @@ const rawParts = [
         body: 'Hofstadter, in *Fluid Concepts and Creative Analogies*, named the failure mode Weizenbaum had documented three decades earlier. The ELIZA effect is the human default — not a rare error. We project understanding onto any system that produces plausible responses. The name outlasted every chatbot that followed.',
         citation: 'Hofstadter, D. R. (1995). *Fluid Concepts and Creative Analogies*. Basic Books.',
         link: 'https://en.wikipedia.org/wiki/ELIZA_effect',
-        eli5: 'Douglas Hofstadter gave this pattern its name. The “ELIZA effect” is: humans can’t help attributing understanding, feelings, and intention to any computer that produces reasonable-sounding responses. It’s not a rare mistake — it’s the default human reaction.'
+        eli5: 'Douglas Hofstadter gave this pattern its name. The “ELIZA effect” is: humans can’t help attributing understanding, feelings, and intention to any computer that produces reasonable-sounding responses. It’s not a rare mistake — it’s the default human reaction.',
+        narrator: 'This is simply frightening. The evidence holds that humans are predisposed toward pattern matching. When something can explain away the complexities of our everyday life, we follow the pattern. This is why the TikTok algorithm was so effective — it learned the patterns we yearn for and served them back. Here is the thing about life: it is not patterns. The desire to put patterns in place is a hope for a simpler reality that does not exist. The pattern matcher — chatbot or feed — feeds that hope. The ELIZA effect is not a quirk. It is a fault line the products are built on.'
       },
       {
         title: 'Turkle’s Continuation',

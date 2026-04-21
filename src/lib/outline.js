@@ -869,7 +869,7 @@ const rawParts = [
         citation: 'Community Mental Health Act of 1963, Pub. L. 88-164; Open Path Collective, openpathcollective.org.',
         link: 'https://openpathcollective.org/',
         eli5: 'In 1963 President Kennedy signed a law that put federal money into local mental-health centers so people could get help near home. The American Association of Pastoral Counselors was founded the same year. Open Path Collective (started 2013) is an online directory of therapists who take sliding-scale cash payment — sessions under eighty dollars. Most of these options don’t require insurance.',
-        narrator: 'There are more doors than people know about. Community mental health centers take sliding scale. Open Path lists clinicians under eighty dollars a session. Pastoral counselors exist in every denomination. The witness is available. The witness is often cheaper than people think. The barrier is usually knowing where to look.'
+        narrator: 'There are more doors than people know about. Clinical therapy is the default one. It also often involves a wait list and a question about whether your insurance is compatible — and for many people one or both of those stops them. When the default door is slow or closed, the others are still open. Community mental health centers take sliding scale. Open Path lists clinicians under eighty dollars a session. Pastoral counselors exist in every denomination. The witness is available. The witness is often cheaper and nearer than people think. The barrier is usually knowing where to look.'
       },
       {
         title: 'The Listening',

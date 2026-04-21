@@ -282,7 +282,8 @@ const rawParts = [
         body: 'On the clinician side, Nurius and colleagues found therapists adjusting their questions and their phrasings in response to what they would then have to report. The room performs self-censorship from both chairs. The safety rule produces iatrogenic silence — a side effect of the protection itself.',
         citation: 'Nurius, P. S. et al. (1997). *Professional Psychology: Research and Practice*, 28(2), 137–143.',
         link: 'https://doi.org/10.1037/0735-7028.28.2.137',
-        eli5: 'On the therapist’s side, therapists also adjust what questions they ask based on what they’d have to report. So the conversation in the therapy room gets quieter from both sides. The safety rule makes both people a little less honest. A side effect of the protection itself.'
+        eli5: 'On the therapist’s side, therapists also adjust what questions they ask based on what they’d have to report. So the conversation in the therapy room gets quieter from both sides. The safety rule makes both people a little less honest. A side effect of the protection itself.',
+        narrator: 'Once the therapist-client relationship was broken by the reporting protocols, the therapists stopped being effective in their jobs. They stopped trying. They skirt around issues rather than asking about them. No space is left for what actually happened. Naming the trauma becomes a justification for a punitive response. Nobody talks about the bad stuff because of it. Kalichman and Nurius watched the room empty from both sides. The patient holds back. The therapist redirects. The trauma stays sealed in the compartment the client came hoping to open.'
       }
     ]
   },

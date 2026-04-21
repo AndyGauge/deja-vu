@@ -775,7 +775,8 @@ const rawParts = [
         body: 'Schwartz developed IFS after noticing that his clients spontaneously described themselves in terms of internal parts — a wounded part, a protective part, a manager. IFS posits an undamaged core Self that, once accessed, can witness and update exiled parts. Growing evidence supports its efficacy, and its mechanism fits reconsolidation theory.',
         citation: 'Schwartz, R. C. (1995). *Internal Family Systems Therapy*. Guilford.',
         link: 'https://en.wikipedia.org/wiki/Internal_Family_Systems_Model',
-        eli5: 'A therapist named Richard Schwartz noticed his clients talked about themselves in parts: “a part of me feels angry, a part feels sad.” He built a therapy around listening to those parts instead of arguing with them. The core calm “Self” inside witnesses each part and helps update the ones stuck in old pain.'
+        eli5: 'A therapist named Richard Schwartz noticed his clients talked about themselves in parts: “a part of me feels angry, a part feels sad.” He built a therapy around listening to those parts instead of arguing with them. The core calm “Self” inside witnesses each part and helps update the ones stuck in old pain.',
+        narrator: 'Karma Chameleon was my nickname. *I can never tell if you are telling the truth* was offered to me as a compliment. I took it. Culture celebrates the performer. Actors are among the highest-paid professions, the lifestyles most sought after. The idea is that we get to play roles in life — not forced to live consistently. Schwartz’s parts work names the internal version. We cannot write a narrative that contains both the father and the manager in the same self. The culture trained us to keep them apart. That keeping-apart is the root of dissociation. IFS is the reverse: find the Self that can hold both, and let the parts stop running the show.'
       },
       {
         title: 'EMDR',

@@ -182,7 +182,7 @@ const rawParts = [
         citation: 'Vaillant, G. E. (1977). *Adaptation to Life*. Little, Brown.',
         link: 'https://en.wikipedia.org/wiki/George_Eman_Vaillant',
         eli5: 'A Harvard psychiatrist followed hundreds of men for decades to see how they handled life’s stresses. He ranked coping styles in four tiers, from worst to best. “Compartmentalizing” — packing hard things away so you don’t have to feel them — sits in the middle tier. It works short-term but costs you later.',
-        narrator: 'Compartmentalization works. That is why we use it. The cost is not today. The cost is the compound interest on the return trip. Vaillant watched the bill arrive in late midlife. The men who had packed the hardest things away the tightest had the longest tabs. Every reprogramming protocol in this book is a way of paying in smaller installments than the compounded bill.'
+        narrator: 'Compartmentalization works. That is why we use it. The cost is not today. The cost is the compound interest on the return trip. Vaillant watched the bill arrive in late midlife. The men who had packed the hardest things away the tightest had the longest tabs. As Vaillant predicted, years of compartmentalization produced significant emotional debt. The space left over for dealing with daily life was shrinking and the capability set was decreasing. While peers were growing, I was retracting. Every reprogramming protocol in this book is a way of paying in smaller installments than the compounded bill.'
       },
       {
         title: 'The Dissociation Spectrum',

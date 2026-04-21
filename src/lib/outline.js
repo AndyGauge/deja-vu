@@ -248,7 +248,8 @@ const rawParts = [
         citation: 'Tarasoff v. Regents of the University of California, 17 Cal. 3d 425 (1976).',
         link: 'https://en.wikipedia.org/wiki/Tarasoff_v._Regents_of_the_University_of_California',
         quote: 'The protective privilege ends where the public peril begins.',
-        eli5: 'A UC Berkeley student told his therapist he was going to kill a woman named Tatiana Tarasoff. The therapist didn’t warn her. Two months later she was killed. Her family sued. The California Supreme Court ruled therapists have to warn someone if a patient makes a credible threat against them — even if that breaks the privacy of therapy.'
+        eli5: 'A UC Berkeley student told his therapist he was going to kill a woman named Tatiana Tarasoff. The therapist didn’t warn her. Two months later she was killed. Her family sued. The California Supreme Court ruled therapists have to warn someone if a patient makes a credible threat against them — even if that breaks the privacy of therapy.',
+        narrator: 'Tarasoff was a legal ruling. It was also a critique of what was happening in the room. Poddar was idealizing a murder. The therapy did not interrupt the idealization — it let the plan keep forming. Naming a thought is the beginning of reprogramming. Leaving it there with no replacement is rumination. There is a fine line between *let’s work on the fact that you want to kill her* and *let’s ruminate on it*. The line is replacement. Name it, then replace it. If the therapy is working up courage to do evil, the therapist is not guiding you away from it. The duty to warn is the legal floor. The duty to interrupt is older.'
       },
       {
         title: 'CAPTA and the Reporter Class',

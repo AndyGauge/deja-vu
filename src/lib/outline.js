@@ -43,7 +43,7 @@ const rawParts = [
         citation: 'Penfield, W. & Jasper, H. (1954). *Epilepsy and the Functional Anatomy of the Human Brain*. Little, Brown.',
         link: 'https://en.wikipedia.org/wiki/Wilder_Penfield',
         eli5: 'A brain surgeon named Wilder Penfield operated on patients with epilepsy while they were awake. He touched different parts of their brain with a tiny electric probe. When he touched a specific area, patients would suddenly feel like they were reliving a memory or get a strong sense of “I’ve been here before.” That’s how we know déjà vu lives in that part of the brain.',
-        narrator: 'Déjà vu has a physical address. Penfield found it with an electrode. When I had it, I did not know the cortex was flagging a door. I learned later. If you have felt that sense that a room you have never entered is familiar — your brain is signaling that it has something stored you have not yet seen.'
+        narrator: 'Penfield found the physical address. The electrode proved the circuit. For me the experience of déjà vu was striking — not *I think I’ve heard this before*, but something much stronger: *I know I’ve heard this before*. As I recalled every face that could have told me, I unlocked the door. What was behind it was the pattern I had to face next. If I was using dissociation as a technique to go fast, when did I learn it?'
       },
       {
         title: 'Healthy by Default',

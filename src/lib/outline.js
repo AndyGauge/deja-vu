@@ -532,7 +532,7 @@ const rawParts = [
         citation: 'Merzenich, M. M. et al. (1984). *Neuroscience*, 10(3), 639–665; Jenkins, W. M., Merzenich, M. M. et al. (1990). *Journal of Neurophysiology*, 63(1), 82–104.',
         link: 'https://en.wikipedia.org/wiki/Michael_Merzenich',
         eli5: 'A UCSF scientist cut the nerve to parts of adult monkeys’ hands. He expected the brain area that handled those fingers to just go quiet. Instead, within weeks that area started handling nearby fingers. Later he showed the reverse: when monkeys practiced using certain fingers, the brain area for those fingers grew. Adult brains rewire themselves based on use.',
-        narrator: 'Adult brains rewire. In millimeters. In weeks. This is not a hopeful metaphor — it is the measurement. You are not stuck with the brain that was shaped under the load. You can shape it again. If the research were only this page, it would already be enough.'
+        narrator: 'I feel bad for the monkeys. I also feel bad for the scientists who had spent careers convinced it would not work. Before Merzenich, the prevailing view was determinist: adult cortex was fixed, the past had poured its concrete, the earth would not move. That view is convenient for bad actors. Every action they took to shape you became a concrete addition to a past you could not edit. Merzenich broke the foundation. Adult brains rewire. In millimeters. In weeks. The past is not fixed because the brain that holds it is not fixed. You are not what was done to you.'
       },
       {
         title: 'Blind V1 Reads Braille',

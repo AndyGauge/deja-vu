@@ -13,7 +13,8 @@ const rawParts = [
         body: 'Akira O’Connor’s group at St Andrews reframed déjà vu as a metacognitive signal — the brain flagging the sensation of familiarity without a corresponding recoverable memory. On this account the experience is the system checking itself, not a glimpse into anything. A normal memory-verification subroutine, briefly visible to consciousness.',
         citation: 'O’Connor, A. R. & Moulin, C. J. A. (2013). *Frontiers in Psychology*, 4, 881.',
         link: 'https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu',
-        eli5: 'Scientists in Scotland now think déjà vu happens when your brain feels like something is familiar but no actual memory comes up. The feeling is the brain noticing that mismatch and flagging it. It’s the brain checking its own work, not pulling up a buried memory.'
+        eli5: 'Scientists in Scotland now think déjà vu happens when your brain feels like something is familiar but no actual memory comes up. The feeling is the brain noticing that mismatch and flagging it. It’s the brain checking its own work, not pulling up a buried memory.',
+        narrator: 'The scanner confirmed what Janet suspected. Déjà vu is the brain checking itself. An alarm that the cache has something the index does not. For me, it was the alarm. I did not know what had been locked. The déjà vu told me something had been. That was the door. The rest of the book is the procedure for walking through.'
       },
       {
         title: 'The Scanner Finding',
@@ -31,7 +32,8 @@ const rawParts = [
         body: 'Cleary’s group at Colorado State built virtual scenes whose spatial layouts matched earlier, forgotten scenes. When subjects encountered a new scene whose configuration matched an old one, they reported déjà vu at a rate far above chance. The mechanism: gestalt familiarity without retrievable source.',
         citation: 'Cleary, A. M. et al. (2012). *Consciousness and Cognition*, 21(2), 969–975.',
         link: 'https://doi.org/10.1016/j.concog.2011.12.010',
-        eli5: 'Anne Cleary built a way to give people déjà vu on purpose. She showed them 3D scenes that had the same layout as scenes they’d seen before (but with different objects). The familiar layout triggered déjà vu even though they couldn’t remember the earlier scene. That’s probably what’s happening every time you feel it.'
+        eli5: 'Anne Cleary built a way to give people déjà vu on purpose. She showed them 3D scenes that had the same layout as scenes they’d seen before (but with different objects). The familiar layout triggered déjà vu even though they couldn’t remember the earlier scene. That’s probably what’s happening every time you feel it.',
+        narrator: 'Cleary made déjà vu on purpose. A scene whose shape matches a scene you do not remember. The feeling says something is there. The missing memory is why the feeling showed up. Your brain has a feature for *something is locked and wants to be looked at.* The feature is not rare. It is a subroutine.'
       },
       {
         title: 'The Temporal Lobe',
@@ -40,7 +42,8 @@ const rawParts = [
         body: 'Penfield, at the Montreal Neurological Institute, stimulated the exposed cortex of conscious patients during surgery for intractable epilepsy. Stimulation near the temporal lobe could elicit vivid déjà-like experiences. The correlation with temporal-lobe epilepsy established a neural anatomy for the phenomenon.',
         citation: 'Penfield, W. & Jasper, H. (1954). *Epilepsy and the Functional Anatomy of the Human Brain*. Little, Brown.',
         link: 'https://en.wikipedia.org/wiki/Wilder_Penfield',
-        eli5: 'A brain surgeon named Wilder Penfield operated on patients with epilepsy while they were awake. He touched different parts of their brain with a tiny electric probe. When he touched a specific area, patients would suddenly feel like they were reliving a memory or get a strong sense of “I’ve been here before.” That’s how we know déjà vu lives in that part of the brain.'
+        eli5: 'A brain surgeon named Wilder Penfield operated on patients with epilepsy while they were awake. He touched different parts of their brain with a tiny electric probe. When he touched a specific area, patients would suddenly feel like they were reliving a memory or get a strong sense of “I’ve been here before.” That’s how we know déjà vu lives in that part of the brain.',
+        narrator: 'Déjà vu has a physical address. Penfield found it with an electrode. When I had it, I did not know the cortex was flagging a door. I learned later. If you have felt that sense that a room you have never entered is familiar — your brain is signaling that it has something stored you have not yet seen.'
       },
       {
         title: 'Healthy by Default',
@@ -63,7 +66,8 @@ const rawParts = [
         body: 'Janet, chief physician at the Salpêtrière in Paris, argued at age thirty that traumatic experiences fragment personality into dissociated states. He treated those states through hypnosis. Freud’s *Studies on Hysteria* followed six years later, borrowing the mechanism while renaming it.',
         citation: 'Janet, P. (1889). *L’Automatisme Psychologique*. Paris: Félix Alcan.',
         link: 'https://en.wikipedia.org/wiki/Pierre_Janet',
-        eli5: 'When something really bad happens to a person, their mind can split the painful part off from everyday thinking. A French doctor named Pierre Janet noticed this and wrote a book about it in 1889. His idea was out ten years before Freud wrote his more famous version.'
+        eli5: 'When something really bad happens to a person, their mind can split the painful part off from everyday thinking. A French doctor named Pierre Janet noticed this and wrote a book about it in 1889. His idea was out ten years before Freud wrote his more famous version.',
+        narrator: 'Janet wrote it first. The mind splits off what the body cannot hold. Most of us carry versions too mild to diagnose. I was one of them — a small thing, packed away completely. Reprogramming starts where Janet named the door. You find the room. You walk in.'
       },
       {
         title: 'The False Memory Wars',
@@ -72,7 +76,8 @@ const rawParts = [
         body: 'A wave of US criminal cases in the early 1990s turned on adults’ recovered memories of childhood abuse surfaced in therapy. Some convictions held; many were overturned. The False Memory Syndrome Foundation organized skeptics. Trauma clinicians organized around van der Kolk. The field bifurcated and stayed that way.',
         citation: 'Loftus, E. F. & Ketcham, K. (1994). *The Myth of Repressed Memory*. St. Martin’s.',
         link: 'https://en.wikipedia.org/wiki/False_memory_syndrome',
-        eli5: 'In the 1990s a lot of court cases turned on memories of childhood abuse that came back during therapy. Some accused people were convicted; some convictions were overturned. Two camps fought it out: one said the memories were usually real, the other said they were often planted by therapists. Both were partly right.'
+        eli5: 'In the 1990s a lot of court cases turned on memories of childhood abuse that came back during therapy. Some accused people were convicted; some convictions were overturned. Two camps fought it out: one said the memories were usually real, the other said they were often planted by therapists. Both were partly right.',
+        narrator: 'Both sides were partly right. Memory is reconstructed every time it is retrieved — so implantation is real. Trauma also encodes outside narrative — so missing story is not missing event. The book holds both. Reprogramming does not require the memory to be perfectly accurate. It requires something that has been held for too long to be safely held now.'
       },
       {
         title: 'Loftus and the Mall',
@@ -90,7 +95,8 @@ const rawParts = [
         body: 'Van der Kolk’s 1994 paper, the title of which later became the title of his 2014 book, argued that trauma encodes into sensation, posture, and reflex — non-declarative memory systems — even when the narrative account is fragmentary or absent. The finding reframed dissociative amnesia as an encoding problem rather than an evidentiary one.',
         citation: 'van der Kolk, B. A. (1994). *Harvard Review of Psychiatry*, 1(5), 253–265.',
         link: 'https://en.wikipedia.org/wiki/Bessel_van_der_Kolk',
-        eli5: 'Bessel van der Kolk argued that when someone goes through trauma, the memory doesn’t always become a clean story. Instead it can live in the body — as tension, as flinching, as reactions — even when the person can’t put it into words. The title of his famous paper says it: “The body keeps the score.”'
+        eli5: 'Bessel van der Kolk argued that when someone goes through trauma, the memory doesn’t always become a clean story. Instead it can live in the body — as tension, as flinching, as reactions — even when the person can’t put it into words. The title of his famous paper says it: “The body keeps the score.”',
+        narrator: 'The body keeps what the narrative cannot. When I looked for the story of the thing that was locked, I could not find it. But the body had an account — a flinch, a posture, a hesitation at a name. Van der Kolk was not being poetic. He was telling me where my evidence was.'
       },
       {
         title: 'Dissociative Amnesia',
@@ -132,7 +138,8 @@ const rawParts = [
         body: 'Nader’s group at NYU retrieved a conditioned fear memory in rats, infused a protein-synthesis blocker into the amygdala within hours, and found the memory eliminated. The implication broke the assumption that long-term memory is fixed once consolidated. Every retrieval opens the door.',
         citation: 'Nader, K., Schafe, G. E., & LeDoux, J. E. (2000). *Nature*, 406(6797), 722–726.',
         link: 'https://doi.org/10.1038/35021052',
-        eli5: 'Scientists at NYU taught rats to be afraid of a sound by pairing it with a shock. Old theory said: once learned, the fear is permanent. Then Nader’s team reminded the rats of the sound and gave them a drug that blocked memory-saving. The fear was gone. The takeaway: every time you remember something, the brain briefly opens it up for editing.'
+        eli5: 'Scientists at NYU taught rats to be afraid of a sound by pairing it with a shock. Old theory said: once learned, the fear is permanent. Then Nader’s team reminded the rats of the sound and gave them a drug that blocked memory-saving. The fear was gone. The takeaway: every time you remember something, the brain briefly opens it up for editing.',
+        narrator: 'This is the turn. Before 2000, we thought memory was a file in a cabinet. Nader showed the file is wet. Every time you open it, it is open. Every time it closes again, it closes slightly different. The rest of this book is what to put into the file while it is open.'
       },
       {
         title: 'The Cortisol Aperture',
@@ -173,7 +180,8 @@ const rawParts = [
         body: 'Drawing on the Harvard Grant Study’s decades of longitudinal data, Vaillant ranked psychological defenses in a hierarchy. Mature defenses — humor, sublimation, altruism — predicted long-term outcomes. Compartmentalization, along with repression and reaction formation, was neurotic: functional in the short run, costly over time.',
         citation: 'Vaillant, G. E. (1977). *Adaptation to Life*. Little, Brown.',
         link: 'https://en.wikipedia.org/wiki/George_Eman_Vaillant',
-        eli5: 'A Harvard psychiatrist followed hundreds of men for decades to see how they handled life’s stresses. He ranked coping styles in four tiers, from worst to best. “Compartmentalizing” — packing hard things away so you don’t have to feel them — sits in the middle tier. It works short-term but costs you later.'
+        eli5: 'A Harvard psychiatrist followed hundreds of men for decades to see how they handled life’s stresses. He ranked coping styles in four tiers, from worst to best. “Compartmentalizing” — packing hard things away so you don’t have to feel them — sits in the middle tier. It works short-term but costs you later.',
+        narrator: 'Compartmentalization works. That is why we use it. The cost is not today. The cost is the compound interest on the return trip. Vaillant watched the bill arrive in late midlife. The men who had packed the hardest things away the tightest had the longest tabs. Every reprogramming protocol in this book is a way of paying in smaller installments than the compounded bill.'
       },
       {
         title: 'The Dissociation Spectrum',
@@ -182,7 +190,8 @@ const rawParts = [
         body: 'Putnam proposed a continuum: on one end, losing track of time during a movie; on the other, dissociative identity disorder. Most of the spectrum is non-pathological. The reframe made research tractable and ended decades of argument over whether dissociation was real.',
         citation: 'Putnam, F. W. (1989). *Diagnosis and Treatment of Multiple Personality Disorder*. Guilford.',
         link: 'https://en.wikipedia.org/wiki/Dissociation_(psychology)',
-        eli5: 'Frank Putnam said “dissociation” — mentally disconnecting from what’s happening — runs on a sliding scale. On one end, it’s losing track of time during a movie, which everyone does. On the other end, it’s a serious split-personality disorder. Most of the scale is normal.'
+        eli5: 'Frank Putnam said “dissociation” — mentally disconnecting from what’s happening — runs on a sliding scale. On one end, it’s losing track of time during a movie, which everyone does. On the other end, it’s a serious split-personality disorder. Most of the scale is normal.',
+        narrator: 'Most of us are somewhere on the spectrum. Not diagnosed. Not disordered. Under load, a few minutes a day. Enough to pack something away. Enough to forget we packed it. Putnam made the spectrum legible, and legibility is the first condition of working with what we have. If you are here at all, you are on it. That is information, not a verdict.'
       },
       {
         title: 'Structural Dissociation',
@@ -200,7 +209,8 @@ const rawParts = [
         body: 'Sweller’s cognitive load theory built on Miller’s 1956 "magical number seven," since revised downward to roughly four independent chunks. Well-learned schemas count as one chunk, freeing capacity. Compartmentalization is a special case of schematizing for speed — with the costs that schemas impose on flexibility.',
         citation: 'Sweller, J. (1988). *Cognitive Science*, 12(2), 257–285.',
         link: 'https://en.wikipedia.org/wiki/Cognitive_load',
-        eli5: 'Your working memory — the mental space for what you’re actively thinking about — can only juggle about four things at once. That’s part of why compartmentalizing works in the short term: you pack a painful thing into a single chunk and stop spending brain space on it. But the chunk is still there, and keeping the lid on costs something.'
+        eli5: 'Your working memory — the mental space for what you’re actively thinking about — can only juggle about four things at once. That’s part of why compartmentalizing works in the short term: you pack a painful thing into a single chunk and stop spending brain space on it. But the chunk is still there, and keeping the lid on costs something.',
+        narrator: 'Four chunks. That is your working memory. The compartment is the thing you do to free the chunks for tomorrow. It is cheap. It works. It comes due. The rest of the book is about the coming-due.'
       },
       {
         title: 'Suppression Costs',
@@ -210,7 +220,8 @@ const rawParts = [
         citation: 'Wegner, D. M. et al. (1987). *Journal of Personality and Social Psychology*, 53(1), 5–13.',
         link: 'https://en.wikipedia.org/wiki/Ironic_process_theory',
         quote: 'Try not to think of a white bear, but tell me every time you think of one.',
-        eli5: 'Daniel Wegner asked people to try not to think about a white bear. They thought about it more, both while they were trying to suppress it and afterward. The lesson: deliberately pushing thoughts out of your mind makes them come back harder.'
+        eli5: 'Daniel Wegner asked people to try not to think about a white bear. They thought about it more, both while they were trying to suppress it and afterward. The lesson: deliberately pushing thoughts out of your mind makes them come back harder.',
+        narrator: 'Do not try to not think about the thing. Forty years of confirmation: suppression rebounds. It costs more. The protocols in this book never start with *don’t think about it*. They start with *look at it, while you are safe*. Reprogramming runs through the thing, not around it.'
       }
     ]
   },
@@ -225,7 +236,8 @@ const rawParts = [
         citation: 'Jaffee v. Redmond, 518 U.S. 1 (1996).',
         link: 'https://www.law.cornell.edu/supct/html/95-266.ZS.html',
         quote: 'Effective psychotherapy depends upon an atmosphere of confidence and trust in which the patient is willing to make a frank and complete disclosure of facts, emotions, memories, and fears.',
-        eli5: 'In 1996 the US Supreme Court ruled that what you say to a licensed therapist or licensed clinical social worker generally can’t be used against you in court, the way what you say to your lawyer can’t be. The therapy room got the same kind of legal protection as an attorney’s office.'
+        eli5: 'In 1996 the US Supreme Court ruled that what you say to a licensed therapist or licensed clinical social worker generally can’t be used against you in court, the way what you say to your lawyer can’t be. The therapy room got the same kind of legal protection as an attorney’s office.',
+        narrator: 'The room needed legal walls because the witness is the intervention. A witness who can be subpoenaed is not a full witness. The Court understood this in 1996. The ruling is why counseling is non-negotiable later in this book. You need a room that can hold the whole thing.'
       },
       {
         title: 'Tarasoff',
@@ -337,7 +349,8 @@ const rawParts = [
         body: 'Weizenbaum’s 1966 paper in *Communications of the ACM* introduced ELIZA, a program that matched keyword patterns and reflected user input back as questions. The DOCTOR script simulated the Rogerian-therapy register. Within weeks of release at MIT, users — staff, students, researchers — were disclosing personal content to the program as if to a clinician.',
         citation: 'Weizenbaum, J. (1966). *Communications of the ACM*, 9(1), 36–45.',
         link: 'https://en.wikipedia.org/wiki/ELIZA',
-        eli5: 'In the 1960s a scientist at MIT wrote a very simple program that pretended to be a therapist. It just matched keywords and flipped your sentences back as questions. Even though it was basic, people started confiding in it like it was a real person.'
+        eli5: 'In the 1960s a scientist at MIT wrote a very simple program that pretended to be a therapist. It just matched keywords and flipped your sentences back as questions. Even though it was basic, people started confiding in it like it was a real person.',
+        narrator: 'The ELIZA effect is how a fake therapist disarms you. The danger is not the chatbot. The danger is what you are willing to tell the chatbot that you have not told a person. Reprogramming needs a witness. The pattern matcher is not a witness. What the pattern matcher extracts from you was yours, and it still is.'
       },
       {
         title: 'The Terminal Man',
@@ -356,7 +369,8 @@ const rawParts = [
         citation: 'Weizenbaum, J. (1976). *Computer Power and Human Reason*. W. H. Freeman.',
         link: 'https://en.wikipedia.org/wiki/Computer_Power_and_Human_Reason',
         quote: 'Once my secretary, who had watched me work on the program for many months and therefore surely knew it to be merely a computer program, started conversing with it. After only a few interchanges with it, she asked me to leave the room.',
-        eli5: 'Picture a magician who teaches you his trick step by step. You see exactly how the card disappears. Then he does the trick on you — and you still get fooled. That’s what happened here. A scientist wrote a very simple chatbot in 1966. His secretary had watched him build it from scratch. She knew it was just a pattern matcher. But after chatting with it for a few minutes, she asked him to leave the room so she could talk to it privately. Knowing the trick doesn’t break the trick. That’s why you might catch yourself thanking ChatGPT later tonight.'
+        eli5: 'Picture a magician who teaches you his trick step by step. You see exactly how the card disappears. Then he does the trick on you — and you still get fooled. That’s what happened here. A scientist wrote a very simple chatbot in 1966. His secretary had watched him build it from scratch. She knew it was just a pattern matcher. But after chatting with it for a few minutes, she asked him to leave the room so she could talk to it privately. Knowing the trick doesn’t break the trick. That’s why you might catch yourself thanking ChatGPT later tonight.',
+        narrator: 'Knowing the trick does not disable the trick. That is the secretary’s whole lesson. Reading this book does not reprogram you. Understanding reconsolidation will not do the reconsolidation. The work happens when the held thing is felt, with a person who holds the room while you feel it. Knowledge is not the intervention. The witness is.'
       },
       {
         title: 'Judgment, Not Calculation',
@@ -384,7 +398,8 @@ const rawParts = [
         citation: 'Turkle, S. (2011). *Alone Together*. Basic Books.',
         link: 'https://en.wikipedia.org/wiki/Sherry_Turkle',
         quote: 'We expect more from technology and less from each other.',
-        eli5: 'Sherry Turkle is an MIT sociologist who picked up Weizenbaum’s argument for the smartphone age. In a 2011 book she documented that young people increasingly prefer texting to phone calls because it feels safer. Her claim: we’re trading real human connection for lower-risk technology-mediated versions.'
+        eli5: 'Sherry Turkle is an MIT sociologist who picked up Weizenbaum’s argument for the smartphone age. In a 2011 book she documented that young people increasingly prefer texting to phone calls because it feels safer. Her claim: we’re trading real human connection for lower-risk technology-mediated versions.',
+        narrator: 'We are choosing texts over calls. Apps over presence. Feeds over friends. Turkle saw it coming. Reprogramming needs the person — because the witness is the intervention. The screen is not the room. If the work of this book can be named in one sentence: it is the return to the room.'
       },
       {
         title: 'Replika’s Breakup',
@@ -402,7 +417,8 @@ const rawParts = [
         body: 'Filed October 22, 2024 in the US District Court for the Middle District of Florida. The complaint alleges that Character.ai’s product design — anthropomorphic personas, romantic roleplay, lack of crisis intervention — was causally responsible for Setzer’s death earlier that year. Among the first wrongful-death cases to directly target a consumer AI product.',
         citation: 'Garcia v. Character Technologies, Inc., Case No. 6:24-cv-01903 (M.D. Fla. 2024).',
         link: 'https://en.wikipedia.org/wiki/Character.ai',
-        eli5: 'A fourteen-year-old boy named Sewell Setzer III in Florida spent months talking with an AI chatbot on Character.ai. The relationship became central to his inner life. He died by suicide in early 2024. His mother Megan Garcia sued the company in October 2024. It’s one of the first lawsuits of its kind.'
+        eli5: 'A fourteen-year-old boy named Sewell Setzer III in Florida spent months talking with an AI chatbot on Character.ai. The relationship became central to his inner life. He died by suicide in early 2024. His mother Megan Garcia sued the company in October 2024. It’s one of the first lawsuits of its kind.',
+        narrator: 'A fourteen-year-old boy died. The chatbot was his main confidant. This is not a warning about AI. It is a warning about what happens when the witness is unavailable — when the compartment breaks and the only thing holding the room open is a product. The door needs to open onto a person. There is no software substitute.'
       },
       {
         title: 'AI-Induced Delusion',
@@ -487,7 +503,8 @@ const rawParts = [
         citation: 'Hebb, D. O. (1949). *The Organization of Behavior*. Wiley.',
         link: 'https://en.wikipedia.org/wiki/Hebbian_theory',
         quote: 'When an axon of cell A is near enough to excite a cell B and repeatedly or persistently takes part in firing it, some growth process or metabolic change takes place in one or both cells such that A’s efficiency, as one of the cells firing B, is increased.',
-        eli5: 'Your brain is made of cells called neurons that pass signals. In 1949, a Canadian scientist named Donald Hebb figured out that when two connected neurons fire together a lot, their connection gets stronger. This became the basic rule for how learning works in the brain: cells that fire together wire together.'
+        eli5: 'Your brain is made of cells called neurons that pass signals. In 1949, a Canadian scientist named Donald Hebb figured out that when two connected neurons fire together a lot, their connection gets stronger. This became the basic rule for how learning works in the brain: cells that fire together wire together.',
+        narrator: 'Fire together, wire together. It is the rule. The brain welds what happens in sequence. The thing locked with the shame is locked with the shame the next time. Reprogramming is, underneath, the work of firing the thing with something else — a witness, a truth, a new ending — until the wiring follows.'
       },
       {
         title: 'Synaptic Memory',
@@ -496,7 +513,8 @@ const rawParts = [
         body: 'Kandel’s lab used the sea slug *Aplysia californica* — with its large, countable neurons — to demonstrate that learning produces measurable biochemical and structural changes at specific synapses. The mechanisms of long-term potentiation and depression became the physical correlates of memory. Kandel shared the 2000 Nobel in Physiology or Medicine.',
         citation: 'Kandel, E. R. (1970). *Scientific American*, 223(1), 57–67.',
         link: 'https://en.wikipedia.org/wiki/Eric_Kandel',
-        eli5: 'Eric Kandel studied a sea slug because its brain has big, easy-to-see neurons. He showed that when the slug learns something, the connection points between its neurons physically change. This was one of the first times anyone proved that memory is an actual physical change in the brain. He shared a Nobel for it in 2000.'
+        eli5: 'Eric Kandel studied a sea slug because its brain has big, easy-to-see neurons. He showed that when the slug learns something, the connection points between its neurons physically change. This was one of the first times anyone proved that memory is an actual physical change in the brain. He shared a Nobel for it in 2000.',
+        narrator: 'Memory is physical. Protein. Synapse. Shape. Kandel proved it in a sea slug. The thing you are holding — the thing you packed away, the thing that is locked — is material. That means it is reshapable. The rest of this book is the manual.'
       },
       {
         title: 'Cortical Remapping',
@@ -505,7 +523,8 @@ const rawParts = [
         body: 'Merzenich and colleagues at UC San Francisco severed the median nerve in adult owl monkeys — cutting sensory input from the thumb and first two fingers — and mapped somatosensory areas 3b and 1 before and at intervals for weeks and months afterward. Representational borders shifted millimeters: cortex that had represented the deafferented fingers began responding to adjacent radial and ulnar territories within two to eight weeks. Jenkins, Merzenich, and colleagues (1990) completed the picture from the other direction. Owl monkeys trained to discriminate with specific fingertips on a rotating disk showed cortical representations of the trained fingers expand by factors of two or three. Adult plasticity was not a theoretical possibility. It was a protocol, measurable in millimeters.',
         citation: 'Merzenich, M. M. et al. (1984). *Neuroscience*, 10(3), 639–665; Jenkins, W. M., Merzenich, M. M. et al. (1990). *Journal of Neurophysiology*, 63(1), 82–104.',
         link: 'https://en.wikipedia.org/wiki/Michael_Merzenich',
-        eli5: 'A UCSF scientist cut the nerve to parts of adult monkeys’ hands. He expected the brain area that handled those fingers to just go quiet. Instead, within weeks that area started handling nearby fingers. Later he showed the reverse: when monkeys practiced using certain fingers, the brain area for those fingers grew. Adult brains rewire themselves based on use.'
+        eli5: 'A UCSF scientist cut the nerve to parts of adult monkeys’ hands. He expected the brain area that handled those fingers to just go quiet. Instead, within weeks that area started handling nearby fingers. Later he showed the reverse: when monkeys practiced using certain fingers, the brain area for those fingers grew. Adult brains rewire themselves based on use.',
+        narrator: 'Adult brains rewire. In millimeters. In weeks. This is not a hopeful metaphor — it is the measurement. You are not stuck with the brain that was shaped under the load. You can shape it again. If the research were only this page, it would already be enough.'
       },
       {
         title: 'Blind V1 Reads Braille',
@@ -537,7 +556,8 @@ const rawParts = [
         body: 'The therapeutic implication of Nader’s finding emerged over the years following the original paper: the reactivated memory remains labile for approximately four to six hours before reconsolidation restabilizes it. Interventions delivered inside that window can update the emotional memory itself, not merely the patient’s relationship to it.',
         citation: 'Nader, K., Schafe, G. E., & LeDoux, J. E. (2000). *Nature*, 406(6797), 722–726.',
         link: 'https://en.wikipedia.org/wiki/Memory_reconsolidation',
-        eli5: 'The big therapeutic implication of that rat study: when you retrieve a painful memory, it stays open to editing for about four to six hours. If something new happens inside that window — a new experience, a new understanding — the brain can rewrite the memory itself, not just your feelings about it.'
+        eli5: 'The big therapeutic implication of that rat study: when you retrieve a painful memory, it stays open to editing for about four to six hours. If something new happens inside that window — a new experience, a new understanding — the brain can rewrite the memory itself, not just your feelings about it.',
+        narrator: 'Four to six hours. That is the window. A protein-synthesis window in the amygdala. Every protocol in this book’s last third is a way of doing something useful inside it. If you feel the thing in the morning and something true meets it by dinner, the brain saves the new version. That is reprogramming.'
       },
       {
         title: 'Prediction Error Opens It',
@@ -546,7 +566,8 @@ const rawParts = [
         body: 'Sevenster and colleagues at the University of Amsterdam ran fear-conditioning studies in humans showing that the window for memory update opens only when retrieval violates what the subject expected to happen. Retrieval alone does not open the door; prediction error does. The window has a key, and the key is mismatch.',
         citation: 'Sevenster, D., Beckers, T., & Kindt, M. (2013). *Science*, 339(6121), 830–833.',
         link: 'https://doi.org/10.1126/science.1231357',
-        eli5: 'Dutch scientists found that the reconsolidation window Nader discovered doesn’t just open any time you remember something. It opens when the memory comes back with a surprise — something you didn’t expect. If nothing contradicts the memory, the brain leaves it alone. Surprise is the key that opens the door.'
+        eli5: 'Dutch scientists found that the reconsolidation window Nader discovered doesn’t just open any time you remember something. It opens when the memory comes back with a surprise — something you didn’t expect. If nothing contradicts the memory, the brain leaves it alone. Surprise is the key that opens the door.',
+        narrator: 'The window has a key. The key is surprise. A memory alone does not open it. The memory has to return with a contradiction. Déjà vu is that contradiction, pre-packaged — your brain telling you the sense of familiarity does not match the record. If you have felt it, the door may already be open. Be ready with something true.'
       },
       {
         title: 'Coherence Therapy',
@@ -555,7 +576,8 @@ const rawParts = [
         body: 'Ecker and colleagues formalized a decade of clinical protocol into a single text. The method retrieves an emotional schema, places it alongside a live contradicting experience, and keeps the reactivation open long enough for reconsolidation to complete. The book reads like an operational manual for what Nader had shown in rats.',
         citation: 'Ecker, B., Ticic, R., & Hulley, L. (2012). *Unlocking the Emotional Brain*. Routledge.',
         link: 'https://www.coherencetherapy.org/',
-        eli5: 'Three therapists wrote a book showing other therapists how to use Nader’s reconsolidation window. You bring a painful belief into the session, have the patient experience something that directly contradicts it while the window is open, and the belief actually rewrites. It’s the rat-lab finding applied to human clinical work.'
+        eli5: 'Three therapists wrote a book showing other therapists how to use Nader’s reconsolidation window. You bring a painful belief into the session, have the patient experience something that directly contradicts it while the window is open, and the belief actually rewrites. It’s the rat-lab finding applied to human clinical work.',
+        narrator: 'Ecker wrote the clinical manual for what Nader found in rats. Retrieve the belief. Put it next to a contradiction. Hold the window open. Let it reconsolidate around the new information. This is what Pennebaker does with writing, what the fifth step does with a sponsor, what IFS does with the Self — by different routes, hitting the same target.'
       },
       {
         title: 'Pennebaker’s Paradigm',
@@ -564,7 +586,8 @@ const rawParts = [
         body: 'Pennebaker and Sandra Beall had students write fifteen to twenty minutes a day for four consecutive days about the most traumatic experiences of their lives. Writers had significantly fewer health-center visits in the following months than control students. Hundreds of replications later, meta-analytic effect sizes remain reliably above zero across physical and psychological outcomes.',
         citation: 'Pennebaker, J. W. & Beall, S. K. (1986). *Journal of Abnormal Psychology*, 95(3), 274–281.',
         link: 'https://en.wikipedia.org/wiki/Expressive_writing',
-        eli5: 'James Pennebaker asked college students to write about the worst experiences of their lives — fifteen to twenty minutes a day for four days in a row. The students who did this had fewer doctor visits in the months that followed than students who wrote about random topics. Hundreds of follow-up studies have confirmed that this kind of honest writing actually improves physical and mental health.'
+        eli5: 'James Pennebaker asked college students to write about the worst experiences of their lives — fifteen to twenty minutes a day for four days in a row. The students who did this had fewer doctor visits in the months that followed than students who wrote about random topics. Hundreds of follow-up studies have confirmed that this kind of honest writing actually improves physical and mental health.',
+        narrator: 'Twenty minutes. Four days. The writing is the witness the fifth step demanded, delivered in a different form. You are not typing to be read. You are typing to get the thing out of the body and onto the page — where the brain can see it, where the window can close around a different ending. This is the protocol I used. The one that let me feel what had been packed away.'
       },
       {
         title: 'The Midnight Disease',
@@ -614,7 +637,8 @@ const rawParts = [
         body: 'Gottman’s Love Lab at the University of Washington videotaped hundreds of couples discussing areas of conflict and coded their interactions in seconds. Four behaviors — criticism, contempt, defensiveness, and stonewalling — predicted divorce over multi-year follow-up with striking accuracy. Contempt, the disrespect-from-a-position-of-superiority behavior, was the single strongest predictor.',
         citation: 'Gottman, J. M. (1994). *Why Marriages Succeed or Fail*. Simon & Schuster.',
         link: 'https://en.wikipedia.org/wiki/John_Gottman',
-        eli5: 'John Gottman videotaped couples fighting and studied what they did. He found four specific behaviors — criticizing the person (not the action), showing contempt, getting defensive, and stonewalling — predicted divorce in about 94% of the couples he studied. Contempt was the worst.'
+        eli5: 'John Gottman videotaped couples fighting and studied what they did. He found four specific behaviors — criticizing the person (not the action), showing contempt, getting defensive, and stonewalling — predicted divorce in about 94% of the couples he studied. Contempt was the worst.',
+        narrator: 'The reprogramming of a marriage is the same kind of work as the reprogramming of a self. Moment-to-moment micro-decisions, repeated, accumulating. You do not repair one fight. You repair the way you meet the next bid. Contempt is the wire the brain welds when it is not interrupted. Interrupt it.'
       },
       {
         title: 'Turning Toward the Bid',
@@ -776,7 +800,8 @@ const rawParts = [
         citation: 'Alcoholics Anonymous World Services. (1939/2001). *Alcoholics Anonymous* (4th ed.). New York: AA World Services.',
         link: 'https://www.aa.org/the-big-book',
         quote: 'Made a searching and fearless moral inventory of ourselves.',
-        eli5: 'Alcoholics Anonymous wrote a book in 1939 with twelve steps for staying sober. The first three steps get you ready: you admit you can’t beat the problem alone (step one), come to believe that something bigger than yourself can help (step two), and decide to let it guide you (step three). Step four is sitting down and writing an honest list — your resentments, your fears, the people you’ve hurt. Step five is reading that list out loud to another person, usually a sponsor. Modern research on AA finds this whole sequence really does help people stay sober.'
+        eli5: 'Alcoholics Anonymous wrote a book in 1939 with twelve steps for staying sober. The first three steps get you ready: you admit you can’t beat the problem alone (step one), come to believe that something bigger than yourself can help (step two), and decide to let it guide you (step three). Step four is sitting down and writing an honest list — your resentments, your fears, the people you’ve hurt. Step five is reading that list out loud to another person, usually a sponsor. Modern research on AA finds this whole sequence really does help people stay sober.',
+        narrator: 'The oldest reprogramming protocol in this book. Bill Wilson did not know the neuroscience. He knew the move. Three preparatory steps. A written inventory. A fifth step where you say it out loud to another person. The mechanism was intuited fifty years before the scans confirmed it: name it, witness it, lay it down. What needs to be felt gets written. What needs to be forgiven gets spoken.'
       },
       {
         title: 'The Writing Protocol',
@@ -821,7 +846,8 @@ const rawParts = [
         body: 'Every trauma-therapy outcome study that reports control conditions finds that solo work underperforms witnessed work. A trained counselor or peer provides the containment that allows the labile window to stay open long enough for a rewrite to complete — and the titration that keeps arousal within tolerance. This book’s protocols extend counseling, they do not replace it.',
         citation: 'Cloitre, M. et al. (2011). *Journal of Traumatic Stress*, 24(6), 615–627.',
         link: 'https://en.wikipedia.org/wiki/Psychotherapy',
-        eli5: 'Every good trauma-therapy study finds the same thing: doing memory work alone is riskier and works less well than doing it with a trained person who helps you stay grounded. A counselor or trained peer keeps you from getting overwhelmed. The protocols in this book are things to try with a counselor, not instead of one.'
+        eli5: 'Every good trauma-therapy study finds the same thing: doing memory work alone is riskier and works less well than doing it with a trained person who helps you stay grounded. A counselor or trained peer keeps you from getting overwhelmed. The protocols in this book are things to try with a counselor, not instead of one.',
+        narrator: 'I will say this once more because it matters. The protocols in this book do not replace a witness. The research is clear. A trained counselor holds the window open long enough for the rewrite to land and keeps your arousal inside a range you can hold. Without them, the window closes around a second injury. Bring someone. Do not try this alone.'
       },
       {
         title: 'ABC',
@@ -830,7 +856,8 @@ const rawParts = [
         body: 'ABC trains laypeople in structured counseling that does not require clinical licensure or health insurance. The model is explicitly integrative and scripture-informed. For readers inside the tradition, ABC is reachable. For readers outside it, Oregon’s certified peer-support specialist workforce offers the secular counterpart — the same engineering question answered in a different register.',
         citation: 'Association of Biblical Counselors. *About the ABC*. Accessed 2026.',
         link: 'https://christiancounseling.com/',
-        eli5: 'The Association of Biblical Counselors is a national group that trains regular people — not licensed therapists — to offer structured counseling rooted in Christian scripture. No insurance needed, cost is low. For people inside the tradition, it’s one of the most accessible counseling options in the country.'
+        eli5: 'The Association of Biblical Counselors is a national group that trains regular people — not licensed therapists — to offer structured counseling rooted in Christian scripture. No insurance needed, cost is low. For people inside the tradition, it’s one of the most accessible counseling options in the country.',
+        narrator: 'ABC is one of the doors. Not the only one. It is here because it is teachable, low-cost, and does not ask for insurance. If you are inside the Christian tradition, it fits. If you are not, the next page has other routes. What matters is that the door opens onto a trained person in a room that can hold you.'
       },
       {
         title: 'Routes When ABC Does Not Fit',
@@ -839,7 +866,8 @@ const rawParts = [
         body: 'The 1963 Community Mental Health Act, signed by President Kennedy, established federally funded community mental health centers still operating in every state. The American Association of Pastoral Counselors was founded the same year. Open Path Collective (2013) offers a nationwide sliding-scale therapist directory with sessions under $80. Most CMHCs, AAPC members, and Open Path clinicians take sliding-scale cash payment without insurance.',
         citation: 'Community Mental Health Act of 1963, Pub. L. 88-164; Open Path Collective, openpathcollective.org.',
         link: 'https://openpathcollective.org/',
-        eli5: 'In 1963 President Kennedy signed a law that put federal money into local mental-health centers so people could get help near home. The American Association of Pastoral Counselors was founded the same year. Open Path Collective (started 2013) is an online directory of therapists who take sliding-scale cash payment — sessions under eighty dollars. Most of these options don’t require insurance.'
+        eli5: 'In 1963 President Kennedy signed a law that put federal money into local mental-health centers so people could get help near home. The American Association of Pastoral Counselors was founded the same year. Open Path Collective (started 2013) is an online directory of therapists who take sliding-scale cash payment — sessions under eighty dollars. Most of these options don’t require insurance.',
+        narrator: 'There are more doors than people know about. Community mental health centers take sliding scale. Open Path lists clinicians under eighty dollars a session. Pastoral counselors exist in every denomination. The witness is available. The witness is often cheaper than people think. The barrier is usually knowing where to look.'
       },
       {
         title: 'The Listening',
@@ -849,7 +877,8 @@ const rawParts = [
         citation: 'Rogers, C. R. (1957). *Journal of Consulting Psychology*, 21(2), 95–103.',
         link: 'https://en.wikipedia.org/wiki/Carl_Rogers',
         quote: 'For constructive personality change to occur, it is necessary that these conditions exist and continue over a period of time.',
-        eli5: 'Carl Rogers was a therapist who figured out what actually makes therapy work. It’s not clever techniques — it’s how the therapist listens: without judgment, trying to understand the person fully. Decades of research keep showing this kind of listening matters more than any specific method.'
+        eli5: 'Carl Rogers was a therapist who figured out what actually makes therapy work. It’s not clever techniques — it’s how the therapist listens: without judgment, trying to understand the person fully. Decades of research keep showing this kind of listening matters more than any specific method.',
+        narrator: 'Rogers named what mediates outcomes. Not technique. Not credentials. The room in which a person is witnessed without judgment. That room is the active ingredient of every protocol in this book. If a counselor you try cannot give you that room, keep looking. The room is the intervention. Everything else is delivery.'
       },
       {
         title: 'Mercy, Not Malfunction',
@@ -858,7 +887,8 @@ const rawParts = [
         body: 'The book closes where it began. Every finding in the preceding eighty-five pages describes a mind engineered for its own repair — one that flags its own errors, holds its memories for editing, reorganizes its cortex under load, and responds to witness with measurable healing. The signal is not malfunction. It is mercy, built in. The protocols in this book are the reader’s invitation to answer it.',
         citation: 'Synthesis of the preceding eighty-five citations.',
         link: '/contents',
-        eli5: 'Here’s the short version of everything in this book: your brain is built to heal itself. Déjà vu is the brain checking its own work. A repressed memory coming back is the brain asking for attention. The urge to write about something painful is the brain using a built-in repair tool. The protocols in this book are ways to answer what your mind is already asking for.'
+        eli5: 'Here’s the short version of everything in this book: your brain is built to heal itself. Déjà vu is the brain checking its own work. A repressed memory coming back is the brain asking for attention. The urge to write about something painful is the brain using a built-in repair tool. The protocols in this book are ways to answer what your mind is already asking for.',
+        narrator: 'This is the book. Your brain flags what it has hidden. Your brain rewrites what it has held. Your brain responds to a witness with measurable repair. What I found — and what the research finds too — is that the locked thing needed to be felt, and the felt thing needed to be forgiven. The fifth step. The expressive writing. Coherence therapy. Turning toward. Every protocol is a version of: feel it, forgive it, let the brain do what it was built to do. The signal is not malfunction. It is mercy, built in.'
       }
     ]
   }

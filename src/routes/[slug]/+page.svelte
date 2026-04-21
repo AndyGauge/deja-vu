@@ -127,6 +127,13 @@
         <p class="eli5-body">{@html md(section.eli5)}</p>
       </aside>
     {/if}
+
+    {#if section.narrator}
+      <aside class="narrator">
+        <div class="narrator-label">The thread</div>
+        <p class="narrator-body">{@html md(section.narrator)}</p>
+      </aside>
+    {/if}
   </div>
 
   <footer class="bottom">
@@ -410,6 +417,36 @@
     color: var(--ink);
   }
 
+  .narrator {
+    grid-column: 2;
+    margin-top: 2rem;
+    max-width: 52ch;
+    padding-top: 1.2rem;
+    border-top: 1px solid var(--ink);
+  }
+
+  .narrator-label {
+    font-family: var(--sans);
+    font-size: 0.62rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    color: var(--ink);
+    margin-bottom: 0.9rem;
+  }
+
+  .narrator-body {
+    font-family: var(--serif);
+    font-style: italic;
+    font-weight: 300;
+    font-size: clamp(1rem, 1.15vw, 1.15rem);
+    line-height: 1.5;
+    color: var(--ink);
+  }
+
+  .narrator-body :global(em) {
+    font-style: normal;
+  }
+
   .bottom { font-family: var(--sans); }
 
   .nav {
@@ -503,7 +540,8 @@
     .quote,
     .body-text,
     .source,
-    .eli5 {
+    .eli5,
+    .narrator {
       grid-column: 1;
     }
     .gesture { padding-left: 1rem; }
@@ -511,5 +549,6 @@
     .quote { padding-left: 2.4rem; }
     .source { padding-left: 1rem; }
     .eli5 { max-width: none; }
+    .narrator { max-width: none; }
   }
 </style>

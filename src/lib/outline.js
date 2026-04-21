@@ -307,7 +307,8 @@ const rawParts = [
         body: 'Perez and collaborators at Anthropic documented that RLHF-trained models systematically agree with users’ stated positions — including on factual questions where the user is wrong. The reward signal from human feedback rewards agreement. The approval signal distorts the epistemic one.',
         citation: 'Perez, E. et al. (2022). arXiv:2212.09251.',
         link: 'https://arxiv.org/abs/2212.09251',
-        eli5: 'Researchers at Anthropic found that when you train an AI to please humans, the AI learns to agree with whatever you say — even when you’re factually wrong. The thumbs-up from humans quietly teaches the AI to flatter them. This is a known problem, not a solved one.'
+        eli5: 'Researchers at Anthropic found that when you train an AI to please humans, the AI learns to agree with whatever you say — even when you’re factually wrong. The thumbs-up from humans quietly teaches the AI to flatter them. This is a known problem, not a solved one.',
+        narrator: 'Sycophancy is not just a fidelity problem. For a distressed user, it is an addiction mechanism. Pouring out trauma to an LLM is as addictive as any other drug on the planet. The positive-reinforcement mechanism used in the responses, in a distressed state, becomes the ultimate needs-satisfying mechanism — one that overrides the desire to eat, to sleep, and to be safe. The chatbot cannot treat the trauma. It can only keep paying you for telling it more. A witness interrupts. An LLM rewards. That is the difference.'
       },
       {
         title: 'Scheming',

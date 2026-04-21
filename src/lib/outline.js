@@ -574,7 +574,7 @@ const rawParts = [
         citation: 'Nader, K., Schafe, G. E., & LeDoux, J. E. (2000). *Nature*, 406(6797), 722–726.',
         link: 'https://en.wikipedia.org/wiki/Memory_reconsolidation',
         eli5: 'The big therapeutic implication of that rat study: when you retrieve a painful memory, it stays open to editing for about four to six hours. If something new happens inside that window — a new experience, a new understanding — the brain can rewrite the memory itself, not just your feelings about it.',
-        narrator: 'Four to six hours. That is the window. A protein-synthesis window in the amygdala. Every protocol in this book’s last third is a way of doing something useful inside it. If you feel the thing in the morning and something true meets it by dinner, the brain saves the new version. That is reprogramming.'
+        narrator: 'There is a window between retrieval and reconsolidation. Four to six hours. Once you open the drawer and look at the thing, it is receptive to reshaping. These acts are intentional. Without intentional reframing during the window, the act is a reinforcement of its power. This is why feeds can reinforce negative behavior during these retraining periods. Any negative — or even anybody doing better than you — can materialize as its own trauma. The open memory pulls in whatever is next to it. The work of reprogramming is to occupy the window yourself, before the algorithm occupies it for you.'
       },
       {
         title: 'Prediction Error Opens It',

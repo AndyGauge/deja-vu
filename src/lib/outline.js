@@ -634,7 +634,8 @@ const rawParts = [
         body: 'Gross’s programmatic work on emotion regulation established that reappraisal — reinterpreting an event as less threatening or less personal — outperforms expressive suppression across affect, memory for the event, and cardiovascular reactivity. Suppressors remembered events worse and showed higher sympathetic arousal. The shift is in the interpretation, not the expression.',
         citation: 'Gross, J. J. (1998). *Review of General Psychology*, 2(3), 271–299.',
         link: 'https://en.wikipedia.org/wiki/Emotion_regulation',
-        eli5: 'James Gross tested two ways of handling emotion. One: try to hide what you’re feeling. Two: try to reinterpret the situation differently. Reinterpretation won on nearly every measure — people felt better, remembered events more accurately, and had less stress on their heart. Hiding what you feel actually makes things worse.'
+        eli5: 'James Gross tested two ways of handling emotion. One: try to hide what you’re feeling. Two: try to reinterpret the situation differently. Reinterpretation won on nearly every measure — people felt better, remembered events more accurately, and had less stress on their heart. Hiding what you feel actually makes things worse.',
+        narrator: 'Gross extends this. Since we cannot deal with the trauma during the event — our bodies are incapable of processing emotionally during the decision-making — we have to reflect on it afterward. And surgically remove the improper actions from future decision-making. That is reappraisal. Not in-the-moment repression. After-the-moment rewriting. The cortisol narrows the aperture while you act; reappraisal widens it once you are safe. The move: look at what you did, see what was an artifact of the chemistry, and refuse to put it into the pattern the brain will weld tomorrow. Reappraisal is not feeling better. It is updating what gets saved.'
       },
       {
         title: 'The Rumination Trap',

@@ -676,7 +676,8 @@ const rawParts = [
         body: 'Wells’s metacognitive therapy separates the content of a thought (what I think) from the process (that I am thinking). Clients trained in detached mindfulness — observing thoughts without engaging them — show substantial and durable reductions in rumination, worry, and anxiety across trials. The distance is the intervention.',
         citation: 'Wells, A. (2000). *Emotional Disorders and Metacognition*. Wiley.',
         link: 'https://en.wikipedia.org/wiki/Metacognitive_therapy',
-        eli5: 'Adrian Wells figured out that the problem usually isn’t what you’re thinking — it’s that you can’t stop thinking it. His therapy teaches people to step back and just notice their thoughts without engaging them. “I’m thinking about that again” instead of “let me think about it more.” Clients trained in this get big reductions in anxiety and rumination.'
+        eli5: 'Adrian Wells figured out that the problem usually isn’t what you’re thinking — it’s that you can’t stop thinking it. His therapy teaches people to step back and just notice their thoughts without engaging them. “I’m thinking about that again” instead of “let me think about it more.” Clients trained in this get big reductions in anxiety and rumination.',
+        narrator: 'It is possible to experience history in a detached state. You float above it rather than feel the experience. From this detached state, we can approach the idea of a repressed memory safer. This is often the technique a therapist will use to enter these painful moments: *tell me what you see, not what you feel.* Wells named the mode. Metacognitive distance. The separation of process from content. You are thinking about the event, not in it. That gap is what makes the work survivable. Without it, retrieval is re-traumatization.'
       },
       {
         title: 'Self-Compassion',

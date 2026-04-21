@@ -86,7 +86,8 @@ const rawParts = [
         body: 'The lost-in-the-mall paradigm: subjects read narratives about childhood events, including one fabricated story — being lost in a shopping mall — corroborated by a trusted family member. About 25% came to believe the false memory was real. Memory implantation moved from theory to laboratory demonstration.',
         citation: 'Loftus, E. F. & Pickrell, J. E. (1995). *Psychiatric Annals*, 25(12), 720–725.',
         link: 'https://en.wikipedia.org/wiki/Lost_in_the_mall_technique',
-        eli5: 'Elizabeth Loftus got people’s families to help her convince them of a made-up story: that they’d been lost in a shopping mall as a child. About a quarter of her subjects came to believe the fake memory was a real one. This showed that false memories can be planted, not just discovered.'
+        eli5: 'Elizabeth Loftus got people’s families to help her convince them of a made-up story: that they’d been lost in a shopping mall as a child. About a quarter of her subjects came to believe the fake memory was a real one. This showed that false memories can be planted, not just discovered.',
+        narrator: 'It does not sound very helpful to manipulate people into reliving something that did not happen, using their loved ones to do it. Loftus’s method earned its ethical scrutiny. But the finding inside the method is useful. A trusted family member’s corroboration can rewrite a memory. That works in both directions. A false memory can be planted. A true memory can be reinforced — especially when the people around you want to recite and reinforce truth. In the spirit of learning from harm: the mechanism that enables implantation is the mechanism that enables repair. If the people near you are in on the truth, the truth is what gets welded.'
       },
       {
         title: 'Van der Kolk’s Counter',

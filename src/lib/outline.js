@@ -777,7 +777,8 @@ const rawParts = [
         body: 'Shapiro, walking in a park in 1987, noticed that distressing thoughts faded as her eyes moved side to side. She built a protocol. Decades of randomized trials have established efficacy for PTSD — EMDR is now a first-line treatment in multiple international guidelines — though the theoretical mechanism (working memory competition, reconsolidation, or both) remains debated.',
         citation: 'Shapiro, F. (1989). *Journal of Traumatic Stress*, 2(2), 199–223.',
         link: 'https://en.wikipedia.org/wiki/Eye_movement_desensitization_and_reprocessing',
-        eli5: 'Francine Shapiro was walking in a park when she noticed that moving her eyes side to side while thinking about upsetting things made the thoughts feel less sharp. She built a therapy around that observation. Many studies now show it helps people with PTSD, even though nobody fully agrees on why it works.'
+        eli5: 'Francine Shapiro was walking in a park when she noticed that moving her eyes side to side while thinking about upsetting things made the thoughts feel less sharp. She built a therapy around that observation. Many studies now show it helps people with PTSD, even though nobody fully agrees on why it works.',
+        narrator: 'I have heard *take a walk* as advice. I have done it. It is as effective as any therapy I have tried. I did not know the eye motions mattered until I read Shapiro. EMDR sounds clinical in the research — bilateral stimulation, working memory competition. Observing your surroundings is how I understand it. Take notice of the details in the buildings and the trees. Not just look at the world. Draw it inside your mind. The high-level organizations start to reconstruct. Shapiro noticed the effect on a walk. The walk is the protocol with the Greek letters removed.'
       },
       {
         title: 'Self-Determination',

@@ -77,7 +77,7 @@ const rawParts = [
         citation: 'Loftus, E. F. & Ketcham, K. (1994). *The Myth of Repressed Memory*. St. Martin’s.',
         link: 'https://en.wikipedia.org/wiki/False_memory_syndrome',
         eli5: 'In the 1990s a lot of court cases turned on memories of childhood abuse that came back during therapy. Some accused people were convicted; some convictions were overturned. Two camps fought it out: one said the memories were usually real, the other said they were often planted by therapists. Both were partly right.',
-        narrator: 'Both sides were partly right. Memory is reconstructed every time it is retrieved — so implantation is real. Trauma also encodes outside narrative — so missing story is not missing event. The book holds both. Reprogramming does not require the memory to be perfectly accurate. It requires something that has been held for too long to be safely held now.'
+        narrator: 'It is not as easy to implant false memories as one side argued. The reason is the same reason compartmentalization does not hold forever: both depend on binding to an unprocessed charge. To inject something that did not happen, you need a traumatic event that is not processed. The false story binds to the charge. That is what makes it stick. If you have opened those compartments, there is nothing left for the new material to attach to. False memories are dangerous — they reinforce the trauma they bind to. Two pains in one compartment. Loftus was right and van der Kolk was right. They were describing the same mechanism from opposite ends.'
       },
       {
         title: 'Loftus and the Mall',

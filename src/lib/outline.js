@@ -762,7 +762,8 @@ const rawParts = [
         citation: 'McAdams, D. P. (1993). *The Stories We Live By*. William Morrow.',
         link: 'https://en.wikipedia.org/wiki/Narrative_identity',
         quote: 'We are all tellers of tales. We each seek to provide our scattered and often confusing experiences with a sense of coherence by arranging the episodes of our lives into stories.',
-        eli5: 'Dan McAdams argues that when we’re adults, the main psychological work we do is turning our experiences into a life story. People whose stories have “bad thing happened, I got better” patterns are happier. People whose stories have “I was doing fine, then it fell apart” patterns are less well. The shape of the story you tell yourself matters.'
+        eli5: 'Dan McAdams argues that when we’re adults, the main psychological work we do is turning our experiences into a life story. People whose stories have “bad thing happened, I got better” patterns are happier. People whose stories have “I was doing fine, then it fell apart” patterns are less well. The shape of the story you tell yourself matters.',
+        narrator: 'The narrative we construct is picked and chosen from the past. That is non-optional. You cannot hold every event — it is too big. Children try. Adults put on a mask. Not to hide who they are. A bitmask. You cover over the non-effective moments. It happened. It isn’t happening. What is happening is all this amazing stuff since then. My marriage isn’t falling apart — it is healthier than the past, and the future is even better. There are fights. There are regrets. They don’t remain. McAdams’s redemption sequences are what that looks like in the data. The story is not optional. The shape of it is.'
       },
       {
         title: 'Internal Family Systems',

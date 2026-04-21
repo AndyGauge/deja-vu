@@ -130,7 +130,8 @@ const rawParts = [
         body: 'Squire synthesized decades of work on amnesic patients into a model: fragile short-term traces become stable long-term memories through hippocampal-cortical transfer, over a window that stretches from hours to years. The model predicted which memories amnesics keep, which they lose, and why the boundary lies where it does.',
         citation: 'Squire, L. R. (1986). *Science*, 232(4758), 1612–1619.',
         link: 'https://en.wikipedia.org/wiki/Memory_consolidation',
-        eli5: 'Larry Squire pulled together decades of work on patients whose brains couldn’t form new memories. He showed that a new memory starts out fragile and has to be “saved” by a brain region called the hippocampus. The saving takes anywhere from hours to years. Until it’s fully saved, the memory is easy to lose.'
+        eli5: 'Larry Squire pulled together decades of work on patients whose brains couldn’t form new memories. He showed that a new memory starts out fragile and has to be “saved” by a brain region called the hippocampus. The saving takes anywhere from hours to years. Until it’s fully saved, the memory is easy to lose.',
+        narrator: 'Memory has a half-life. At first the trace is very weak and it degrades quickly. Without reinforcement, we forget. When someone tells you their name and you say it back, you have made that name a bit stickier. That is consolidation in real time. Certain drugs let scientists measure the effect by breaking it — benzodiazepines and alcohol blackouts block consolidation so reliably that a person can hold a full conversation and not remember any of it an hour later. Squire mapped the timeline from amnesic patients who could not consolidate at all. Consolidation is not a moment. It is a window that stays open, narrowing, for hours to years. What gets reinforced sticks. What does not, fades.'
       },
       {
         title: 'Reconsolidation',

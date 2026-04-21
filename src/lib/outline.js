@@ -637,7 +637,8 @@ const rawParts = [
         body: 'Nolen-Hoeksema’s Response Styles Theory proposed that a ruminative response to sad mood — passive, self-focused, repetitive — prolongs and deepens depressive episodes. Women, who ruminate more on average, also experience depression at roughly twice the rate of men. Redirection of attention breaks the loop; distraction tasks outperform continued introspection.',
         citation: 'Nolen-Hoeksema, S. (1991). *Journal of Abnormal Psychology*, 100(4), 569–582.',
         link: 'https://en.wikipedia.org/wiki/Rumination_(psychology)',
-        eli5: 'Susan Nolen-Hoeksema showed that people who respond to feeling sad by turning inward and chewing on why — replaying the feeling, asking “why am I like this” over and over — stay sad longer. Active distraction actually works better. Women ruminate more on average, and depression rates are about twice as high in women.'
+        eli5: 'Susan Nolen-Hoeksema showed that people who respond to feeling sad by turning inward and chewing on why — replaying the feeling, asking “why am I like this” over and over — stay sad longer. Active distraction actually works better. Women ruminate more on average, and depression rates are about twice as high in women.',
+        narrator: 'Reflecting on wrongs has powerful outcomes. Which direction depends on the shape of the reflection. If you build an echo chamber that repeats the wrong — by mimicry, or by following others who carry the same wound — you reinforce the harmful connections. Nolen-Hoeksema saw the solo version; the online version is the same mechanism across multiple brains. Hebb does not care whether the repetition is internal or social. The wire welds either way. Finding a repressed memory and sharing it with the only person with the power to rewrite it is a different thing. The outcomes are in different categories. Same act, but done once, surgically.'
       },
       {
         title: 'The Four Horsemen',

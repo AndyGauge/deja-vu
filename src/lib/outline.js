@@ -784,7 +784,8 @@ const rawParts = [
         body: 'Self-determination theory identifies three basic psychological needs whose satisfaction drives intrinsic motivation and wellbeing: autonomy (volitional action), competence (effective engagement), and relatedness (connection with others). Thousands of studies across education, healthcare, and work have replicated the core model. Feeds displace all three by substituting extrinsic reward for intrinsic engagement.',
         citation: 'Deci, E. L. & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.',
         link: 'https://en.wikipedia.org/wiki/Self-determination_theory',
-        eli5: 'Two psychologists, Deci and Ryan, proposed that people have three basic psychological needs: to feel in control of their choices, to feel capable at things, and to feel connected to others. Thousands of studies since have confirmed that when these three needs are met, people do better. Scrolling feeds tend to starve all three.'
+        eli5: 'Two psychologists, Deci and Ryan, proposed that people have three basic psychological needs: to feel in control of their choices, to feel capable at things, and to feel connected to others. Thousands of studies since have confirmed that when these three needs are met, people do better. Scrolling feeds tend to starve all three.',
+        narrator: 'Think of humans as parts of an organism that is healthy when they are connected. Deci and Ryan named three needs: autonomy, competence, relatedness. The feed fakes all three. The lever the rats pulled led to death because they lost their connections. Selfishness overrode the protocol. Social media is the infection that produces the same reward reaction — hollow. Three needs, fakeable in dopamine. None of them met in fact. Reprogramming needs connection that counts — another person present enough to actually see you.'
       },
       {
         title: 'Identity-Based Cognition',

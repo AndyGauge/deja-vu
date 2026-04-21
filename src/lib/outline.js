@@ -689,7 +689,8 @@ const rawParts = [
         body: 'CAHOOTS — Crisis Assistance Helping Out On The Streets — pairs a medic with a mental-health crisis worker, dispatched through the Eugene 911 system. By 2020 the program was handling roughly 17% of all Eugene 911 calls at an estimated annual cost savings of $8.5M versus police response. Copied by Denver STAR (2020), NYC B-HEARD (2021), and Portland Street Response.',
         citation: 'White Bird Clinic. *CAHOOTS Program Overview*, various years.',
         link: 'https://whitebirdclinic.org/cahoots/',
-        eli5: 'In 1989, a clinic in Eugene, Oregon started a program called CAHOOTS. Instead of sending police to every 911 call about a mental-health crisis or a homeless person in distress, they send a medic and a counselor in a van. By 2020 they were handling about 17% of all Eugene 911 calls and saving the city roughly $8.5 million a year.'
+        eli5: 'In 1989, a clinic in Eugene, Oregon started a program called CAHOOTS. Instead of sending police to every 911 call about a mental-health crisis or a homeless person in distress, they send a medic and a counselor in a van. By 2020 they were handling about 17% of all Eugene 911 calls and saving the city roughly $8.5 million a year.',
+        narrator: 'Up to now we have been in the research. From here forward we are in policy. CAHOOTS is the hinge. In 1989, White Bird Clinic in Eugene decided to stop sending police to mental-health 911 calls. They sent a medic and a counselor instead. Thirty-five years later the model has been copied by Denver, New York, Portland. The research up to this page said unarmed non-police response can work. CAHOOTS demonstrated that a city can actually do it. Everything after this page is what happens when a state tries. Reprogramming is the same at every scale. Replace the pattern with a witness.'
       },
       {
         title: 'Mink v. Oregon State Hospital',

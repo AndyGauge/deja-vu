@@ -142,7 +142,7 @@ const rawParts = [
         citation: 'Nader, K., Schafe, G. E., & LeDoux, J. E. (2000). *Nature*, 406(6797), 722–726.',
         link: 'https://doi.org/10.1038/35021052',
         eli5: 'Scientists at NYU taught rats to be afraid of a sound by pairing it with a shock. Old theory said: once learned, the fear is permanent. Then Nader’s team reminded the rats of the sound and gave them a drug that blocked memory-saving. The fear was gone. The takeaway: every time you remember something, the brain briefly opens it up for editing.',
-        narrator: 'This is the turn. Before 2000, we thought memory was a file in a cabinet. Nader showed the file is wet. Every time you open it, it is open. Every time it closes again, it closes slightly different. The rest of this book is what to put into the file while it is open.'
+        narrator: 'Nader formalized what the act of recall actually does. It leaves the historical event open for interpretation. Not every recall rewrites. But the act of remembering is a tool for reframing. The rats adapted — first toward fear, then away from it. When they recalled the pain associated with the sound, the memory-blocking drug took the association away during the recall. There was no pain. So the association did not hold. That is the door the rest of the book walks through.'
       },
       {
         title: 'The Cortisol Aperture',

@@ -159,7 +159,8 @@ const rawParts = [
         body: 'Wilson and McNaughton recorded from hippocampal place cells in rats as the animals ran mazes, then continued recording as they slept. During slow-wave sleep, the same cells fired in the same temporal sequences they had used while awake. Sleep was rehearsing the day.',
         citation: 'Wilson, M. A. & McNaughton, B. L. (1994). *Science*, 265(5172), 676–679.',
         link: 'https://en.wikipedia.org/wiki/Hippocampal_replay',
-        eli5: 'Scientists recorded the firing patterns of brain cells in rats as they ran through mazes. Then they kept recording while the rats slept. The same cells fired in the same order during deep sleep as they had while the rats were running. Your sleeping brain replays the day.'
+        eli5: 'Scientists recorded the firing patterns of brain cells in rats as they ran through mazes. Then they kept recording while the rats slept. The same cells fired in the same order during deep sleep as they had while the rats were running. Your sleeping brain replays the day.',
+        narrator: 'Sleep is reinforcement of the day. Dreams are part of the reinforcement. It happens subconsciously, and we have little control over what gets reinforced. Wilson and McNaughton watched the same place cells fire in the same order during sleep as they had during the maze. The day replays whether you like it or not. Short-term memories become long-term while you are unconscious. This is what takes the things that happened and turns them into your narrative. If we could program the routine to move away from harm and toward help, reprogramming would be faster and more effective. We do not have direct access to the routine. The hardest reprogramming is this one — you can only steer what it has to work with. What you did before sleep decides what becomes narrative.'
       },
       {
         title: 'The Glymphatic Sweep',

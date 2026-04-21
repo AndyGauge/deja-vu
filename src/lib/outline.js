@@ -212,7 +212,7 @@ const rawParts = [
         citation: 'Sweller, J. (1988). *Cognitive Science*, 12(2), 257–285.',
         link: 'https://en.wikipedia.org/wiki/Cognitive_load',
         eli5: 'Your working memory — the mental space for what you’re actively thinking about — can only juggle about four things at once. That’s part of why compartmentalizing works in the short term: you pack a painful thing into a single chunk and stop spending brain space on it. But the chunk is still there, and keeping the lid on costs something.',
-        narrator: 'Four chunks. That is your working memory. The compartment is the thing you do to free the chunks for tomorrow. It is cheap. It works. It comes due. The rest of the book is about the coming-due.'
+        narrator: 'Four chunks. That is your working memory. One for the root of the compartments. Three left. Unless there is new trauma — then two. Unless there is new trauma — then one. Unless there is new trauma — then you are lost. This is how compartmentalization catches up with you. The processor shrinks while the queue grows. The bill does not wait for late midlife. It comes in the moment the next thing lands and there is no room left to hold it.'
       },
       {
         title: 'Suppression Costs',

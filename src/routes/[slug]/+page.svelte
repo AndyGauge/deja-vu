@@ -1,5 +1,5 @@
 <script>
-  import { goto } from '$app/navigation';
+  import { goto, afterNavigate } from '$app/navigation';
   import { base } from '$app/paths';
   import { next, prev, flat } from '$lib/outline.js';
   import { createPager } from '$lib/gestures.js';
@@ -16,6 +16,10 @@
   let dragOffset = $state(0);
   let dragging = $derived(dragOffset !== 0);
   let bodyEl = $state();
+
+  afterNavigate(() => {
+    bodyEl?.scrollTo({ top: 0, behavior: 'instant' });
+  });
 
   const pager = createPager({
     onNext: () => {

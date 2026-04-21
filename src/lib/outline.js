@@ -351,7 +351,7 @@ const rawParts = [
         citation: 'Weizenbaum, J. (1966). *Communications of the ACM*, 9(1), 36–45.',
         link: 'https://en.wikipedia.org/wiki/ELIZA',
         eli5: 'In the 1960s a scientist at MIT wrote a very simple program that pretended to be a therapist. It just matched keywords and flipped your sentences back as questions. Even though it was basic, people started confiding in it like it was a real person.',
-        narrator: 'ELIZA’s trick was the question format. *Tell me more. Why do you think that is. What does that mean to you.* The Rogerian pattern turned out to be a frictionless means to get what is inside the head written. That part is useful. Structured prompting reveals the things you need to tell another person — a witness, a counselor, a friend. The prompt is the warmup, not the confession. What surfaces belongs with a person. The pattern matcher is the unlocked door. The witness is the room you walk into.'
+        narrator: 'ELIZA’s trick was the question format. *Tell me more. Why do you think that is. What does that mean to you.* The Rogerian pattern turned out to be a frictionless means to get what is inside the head written. That part is useful. Structured prompting reveals the things you need to tell another person — a witness, a counselor, a friend. The prompt is the warmup, not the confession. What surfaces belongs with a person. The pattern matcher is the unlocked door. The witness is the room you walk into. Opening the door is step one. Walking through it happens hand in hand — especially if the hand belongs to the person responsible for the trauma.'
       },
       {
         title: 'The Terminal Man',

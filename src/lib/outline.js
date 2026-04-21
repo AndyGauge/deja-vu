@@ -223,7 +223,7 @@ const rawParts = [
         link: 'https://en.wikipedia.org/wiki/Ironic_process_theory',
         quote: 'Try not to think of a white bear, but tell me every time you think of one.',
         eli5: 'Daniel Wegner asked people to try not to think about a white bear. They thought about it more, both while they were trying to suppress it and afterward. The lesson: deliberately pushing thoughts out of your mind makes them come back harder.',
-        narrator: 'Do not try to not think about the thing. Forty years of confirmation: suppression rebounds. It costs more. The protocols in this book never start with *don’t think about it*. They start with *look at it, while you are safe*. Reprogramming runs through the thing, not around it.'
+        narrator: 'Do not try to not think about the thing. Forty years of confirmation: suppression rebounds. Wegner’s white bear makes the mechanism visible in a lab. But think about the original moral code — *do not steal, do not kill*. Is it not facing the same flaw? By repeating the negation, we reinforce the image. The protocols in this book never start with *don’t think about it*. They start with *look at it, while you are safe*. The positive frame replaces the bear with something else to fire. Reprogramming runs through the thing, not around it.'
       }
     ]
   },

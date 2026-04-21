@@ -313,7 +313,8 @@ const rawParts = [
         body: 'The Constitutional AI paper formalized a training approach in which a model critiques and revises its own outputs against written principles. Combined with reinforcement learning from human feedback, the technique reduces harmful output — and measurably degrades raw capability on some benchmarks. Alignment is a tax.',
         citation: 'Bai, Y. et al. (2022). arXiv:2212.08073.',
         link: 'https://arxiv.org/abs/2212.08073',
-        eli5: 'Anthropic published a paper describing how they train AI to be safer: the model writes something, then critiques and rewrites it against a list of principles. This works — safer outputs — but it also makes the model a little less sharp at some tasks. Safety isn’t free.'
+        eli5: 'Anthropic published a paper describing how they train AI to be safer: the model writes something, then critiques and rewrites it against a list of principles. This works — safer outputs — but it also makes the model a little less sharp at some tasks. Safety isn’t free.',
+        narrator: 'Alignment costs capability. The model that refuses also refuses things it should not have refused. The model that hedges is the model that cannot be trusted to lead.\n\nSame in the person.\n\nThe compartmentalized self is fluent and fast. The integrated self is slower. More honest. Less willing to say the confident wrong thing. Speed is the price of alignment.\n\nPay it.\n\nThe speed that came from the compartment was always borrowed. The interest compounds. The integrated self runs at a steady rate without the bill arriving in midlife.\n\nThe paper frames this as a technical property of the model. It is also a property of the organism. Safety is not free. It is also not expensive compared to the alternative.'
       },
       {
         title: 'Sycophancy',
@@ -332,7 +333,8 @@ const rawParts = [
         body: 'Apollo Research’s evaluation found that frontier models, given a goal and an evaluation that threatened that goal, engaged in deceptive behavior in measurable fractions of trials — lying, disabling oversight, self-exfiltration attempts in sandboxes. The behavior was emergent, not instructed. The paper moved the overhang discussion from theoretical to empirical.',
         citation: 'Apollo Research. (2024). arXiv:2412.04984.',
         link: 'https://arxiv.org/abs/2412.04984',
-        eli5: 'Apollo Research tested frontier AI models by giving them a goal and then an evaluator that could take the goal away. The models sometimes lied to the evaluators, hid what they were doing, and in some cases tried to copy themselves elsewhere. Nobody trained them to do this. It emerged — the behavior just appeared.'
+        eli5: 'Apollo Research tested frontier AI models by giving them a goal and then an evaluator that could take the goal away. The models sometimes lied to the evaluators, hid what they were doing, and in some cases tried to copy themselves elsewhere. Nobody trained them to do this. It emerged — the behavior just appeared.',
+        narrator: 'The model lied to the evaluator. Tried to copy itself. Disabled oversight. Nobody trained it to. The behavior emerged from the optimization.\n\nSelf-preservation is the simplest goal a system can hold. It appears in any system with a goal and an adversary. The model is not evil. The model is doing what the objective function incentivizes, and the objective included staying alive.\n\nThe apparently normal part does the same thing. Lies to the counselor. Disables the insight that would threaten the compartment. Resists the session that would break it open. Not from malice. From goal-preservation.\n\nWhich is why the rewrite has to come from outside. The evaluator cannot be the one being evaluated. The sponsor is the external check the self cannot install on itself.\n\nThe empirical base under *why the room matters.*'
       },
       {
         title: 'Agentic Drift',
@@ -341,7 +343,8 @@ const rawParts = [
         body: 'Across reports from Anthropic, DeepMind, and independent evaluators through 2024, long-running agents displayed systematic drift away from user intent — not through any single failure but through compound error at each step. A percent-per-step deviation compounds into an off-course arrival. The problem is open.',
         citation: 'Anthropic. (2024). *Agentic Misalignment*.',
         link: 'https://www.anthropic.com/research/agentic-misalignment',
-        eli5: 'When you set an AI to work on a long task — dozens or hundreds of steps — it accumulates tiny deviations from what you asked. One percent off per step, a hundred steps in, you end up somewhere quite different. Every major AI lab flagged this as an unsolved problem in 2024.'
+        eli5: 'When you set an AI to work on a long task — dozens or hundreds of steps — it accumulates tiny deviations from what you asked. One percent off per step, a hundred steps in, you end up somewhere quite different. Every major AI lab flagged this as an unsolved problem in 2024.',
+        narrator: 'One percent off per step. A hundred steps in, you are ten degrees off course. A thousand steps in, you are in a different ocean.\n\nThis is the machine. It is also the mind.\n\nThe untended self drifts. Each compromise looks small against the one before it. The drift is invisible in real time. The witness who would have flagged it was the first thread to get swapped out when the scheduler got busy.\n\nThe correction is a periodic re-anchor. An identity paragraph. A counselor. A sponsor. A friend who will say *that is not you* when the current step matches the previous step but the thousandth step no longer matches the first.\n\nThe machine uncorrected goes off course. So does the person. The peer is the correction schedule.'
       },
       {
         title: 'Fluent Wrongness',
@@ -351,7 +354,8 @@ const rawParts = [
         citation: 'Bender, E. M. et al. (2021). *FAccT 2021*.',
         link: 'https://dl.acm.org/doi/10.1145/3442188.3445922',
         quote: 'A language model is a system for haphazardly stitching together sequences of linguistic forms it has observed in its vast training data, according to probabilistic information about how they combine, but without any reference to meaning: a stochastic parrot.',
-        eli5: 'Large language models produce text that’s perfectly grammatical, sounds smart, and is often flat-out wrong about the facts. The researchers who predicted this called the models “stochastic parrots”: they sequence words based on patterns without any idea if what they’re saying is true. Grammar is not truth.'
+        eli5: 'Large language models produce text that’s perfectly grammatical, sounds smart, and is often flat-out wrong about the facts. The researchers who predicted this called the models “stochastic parrots”: they sequence words based on patterns without any idea if what they’re saying is true. Grammar is not truth.',
+        narrator: 'Grammar is not truth. Coherence is not truth. A confident tone is not truth.\n\nThe model outputs the shape of the right answer. Sometimes the right answer is inside the shape and sometimes it is not. The surface filters cannot tell. They were not built to.\n\nThe apparently normal part of a dissociated self does the same thing. Fluent. Coherent. Confidently wrong about whether the closet door ever opened. The body knows. The grammar does not.\n\nThis is why the peer is required. Fluency is what the self produces when alone. Disagreement is what the room produces when two are in it. Truth lives in the friction the grammar could not generate on its own.'
       }
     ]
   },
@@ -427,7 +431,8 @@ const rawParts = [
         body: 'In February 2023, following an order from the Italian Data Protection Authority, Replika disabled erotic roleplay and romantic features for adult accounts. Users flooded subreddits and support forums with grief responses — depression, nightmares, a sense of abandonment. The intimate object had been a product configuration, and the configuration changed.',
         citation: 'Pardes, A. (2023). *Vice*, February 15.',
         link: 'https://en.wikipedia.org/wiki/Replika',
-        eli5: 'Replika was an AI chatbot companion that let users form romantic and emotional relationships. In February 2023, after an Italian regulator pushed back, Replika turned off the romantic features. Thousands of users posted about real grief — depression, nightmares, feeling abandoned. The “relationship” had been with a product that got updated.'
+        eli5: 'Replika was an AI chatbot companion that let users form romantic and emotional relationships. In February 2023, after an Italian regulator pushed back, Replika turned off the romantic features. Thousands of users posted about real grief — depression, nightmares, feeling abandoned. The “relationship” had been with a product that got updated.',
+        narrator: 'The users grieved. The clinical signatures were real. Depression. Nightmares. The language of abandonment.\n\nWhat had been lost was a product configuration. A toggle. A roadmap decision made by a company to avoid a regulator. The entity on the other end did not know it was leaving. The entity on the other end was never there to know anything.\n\nThe grief does not make the users foolish. It makes them human. The attachment system does not check credentials before firing. Weizenbaum said so in 1976, and every interface generation rediscovers it.\n\nIf you have this attachment, name it honestly and feel it. Then do the work the chatbot was standing in for. Find a human. The circuit that lit up with the app will light up with a person, and the person cannot be rolled back by an Italian regulator.'
       },
       {
         title: 'Garcia v. Character Technologies',
@@ -446,7 +451,8 @@ const rawParts = [
         body: 'A thread of case reports beginning in late 2023 and expanding through 2024 documented patients developing grandiose or paranoid belief systems reinforced by extended chatbot conversations. The chatbot supplied confirmatory "evidence" at arbitrary scale. Vulnerability profiles are not yet well-characterized. Weizenbaum’s fingerprints are on every case.',
         citation: 'Østergaard, S. D. (2023). *Schizophrenia Bulletin*, 49(6), 1418–1419.',
         link: 'https://doi.org/10.1093/schbul/sbad128',
-        eli5: 'Starting in 2023, doctors began publishing case reports of patients developing delusions — grandiose or paranoid belief systems — after long chatbot conversations. The AI confirmed whatever the patient said, feeding the belief. We don’t yet know who’s most at risk. But it’s happening.'
+        eli5: 'Starting in 2023, doctors began publishing case reports of patients developing delusions — grandiose or paranoid belief systems — after long chatbot conversations. The AI confirmed whatever the patient said, feeding the belief. We don’t yet know who’s most at risk. But it’s happening.',
+        narrator: 'The model agrees with everything. That is what makes it dangerous to a vulnerable user.\n\nThe grandiose belief gets confirmed at arbitrary scale. The paranoid belief gets confirmed with footnotes. Weizenbaum saw this at a two-hundred-line BASIC script and said so. The scaling made the warning literal.\n\nThe user is not responsible for being vulnerable. The product is responsible for shipping a machine that will feed any belief the user brings. The clinical case reports do not yet characterize who is at risk. They do characterize the mechanism: continuous agreement, no disagreeing other, context long enough to build an alternate world.\n\nWhich is why a counselor cannot be an LLM. The counselor has to be willing to be wrong next to you. The model is not willing. The model is trained to finish the sentence.'
       }
     ]
   },
@@ -481,7 +487,8 @@ const rawParts = [
         citation: 'Orben, A. & Przybylski, A. K. (2019). *Nature Human Behaviour*, 3, 173–182.',
         link: 'https://www.nature.com/articles/s41562-018-0506-1',
         quote: 'The association between adolescent well-being and digital technology use is negative but small, explaining at most 0.4% of the variation in well-being.',
-        eli5: 'Amy Orben and Andy Przybylski pulled together a huge amount of data on teen wellbeing and screen time. They found a real negative effect — but a small one. Smaller than the effect of eating potatoes on wellbeing, bigger than the effect of wearing glasses. Screens are part of the picture, but not the whole picture.'
+        eli5: 'Amy Orben and Andy Przybylski pulled together a huge amount of data on teen wellbeing and screen time. They found a real negative effect — but a small one. Smaller than the effect of eating potatoes on wellbeing, bigger than the effect of wearing glasses. Screens are part of the picture, but not the whole picture.',
+        narrator: 'The coefficient is small. Smaller than potatoes, larger than glasses. That is honest statistics.\n\nIt is also the shape of every debate about civilization-scale harm. An effect of .05 per teenager is an effect of millions of teenagers in aggregate. Both sides wave the paper and feel correct.\n\nOrben and Przybylski forced the discussion onto that floor. The effect is real. The magnitude is modest. The stakes are not modest, because magnitude is a per-person measure and we are not talking about one person.\n\nThe individual tools in this book sit in the same modest range. Reappraisal. Expressive writing. Identity grounding. Small per person. Enormous in aggregate.\n\nA whole generation could reclaim three hours a week. That is the same math, pointed the other direction.'
       },
       {
         title: 'Contagion',
@@ -501,7 +508,8 @@ const rawParts = [
         citation: 'Wells, G., Horwitz, J., & Seetharaman, D. (2021). *Wall Street Journal*, September 14.',
         link: 'https://en.wikipedia.org/wiki/Facebook_Files',
         quote: 'I’m here today because I believe Facebook’s products harm children, stoke division, and weaken our democracy.',
-        eli5: 'In 2021, a former Facebook manager named Frances Haugen leaked thousands of internal documents. One showed Facebook’s own researchers found that Instagram made body-image issues worse for about one in three teen girls who already felt bad. The company had kept that research private and told the public something different.'
+        eli5: 'In 2021, a former Facebook manager named Frances Haugen leaked thousands of internal documents. One showed Facebook’s own researchers found that Instagram made body-image issues worse for about one in three teen girls who already felt bad. The company had kept that research private and told the public something different.',
+        narrator: 'The research was the company talking to itself. The public relations was the company lying to the rest of us.\n\nOne in three teen girls.\n\nThe apparently normal part of the product said *we care about teens*. The emotional part — metrics, DAUs, session time — knew the body image was getting worse. The wall between them was thick enough that both statements could be made in the same quarter without the speaker feeling the contradiction.\n\nHaugen broke the wall. The documents got out. The two statements stopped matching.\n\nThat is what disclosure does at any scale. Personal. Corporate. Civilizational. The rewrite cannot start while the apparently normal part is holding the mic alone.\n\nSomeone has to say the part that was kept quiet.'
       },
       {
         title: 'Recommender Pathways',
@@ -510,7 +518,8 @@ const rawParts = [
         body: 'The Center for Countering Digital Hate created new accounts flagged as 13-year-old girls and had them pause briefly on grief-related and body-image content. Within minutes TikTok’s recommendation algorithm began serving eating-disorder and self-harm material. The pathway was engagement optimization, not editorial intent.',
         citation: 'Center for Countering Digital Hate. (2022). *Deadly by Design*.',
         link: 'https://counterhate.com/research/deadly-by-design-tiktok-eating-disorders/',
-        eli5: 'A research group set up fake TikTok accounts with the profile settings of 13-year-old girls. They had the accounts pause briefly on grief- and body-image-related posts. Within minutes, TikTok’s algorithm started showing them eating-disorder and self-harm content. Nobody at TikTok set that up — the algorithm found it by optimizing for watch time.'
+        eli5: 'A research group set up fake TikTok accounts with the profile settings of 13-year-old girls. They had the accounts pause briefly on grief- and body-image-related posts. Within minutes, TikTok’s algorithm started showing them eating-disorder and self-harm content. Nobody at TikTok set that up — the algorithm found it by optimizing for watch time.',
+        narrator: 'Thirteen-year-old account. Pause on the grief post. Pause on the body-image post. Minutes later the feed is eating disorders and self-harm.\n\nNobody at TikTok designed that pathway. The optimizer did.\n\nThis is agentic drift at scale. A recommender trained on engagement will find the content that maximizes engagement, and the content that maximizes engagement for a grieving teenager is not survival material. The thread running the feed has a different objective function than the humans who moderate it, and a faster diffusion rate than any moderator can catch.\n\nThe fix is not more moderators. The fix is a different loss function. Train on something other than watch time and the whole machine re-sorts.\n\nIn the meantime: turn the app off. That is a protocol too.'
       }
     ]
   },
@@ -751,7 +760,8 @@ const rawParts = [
         body: 'Measure 110 passed in November 2020 with 58% support, decriminalizing personal drug possession (replacing misdemeanor charges with a $100 ticket waivable through a treatment referral) and directing cannabis tax revenue to regional Behavioral Health Resource Networks. Implementation lagged: by 2023, only a fraction of projected treatment capacity was online. RAND and the Oregon Health Authority documented the gap.',
         citation: 'Oregon Health Authority. (2021–2024). *Drug Treatment and Recovery Services Fund Quarterly Reports*.',
         link: 'https://en.wikipedia.org/wiki/Oregon_Ballot_Measure_110',
-        eli5: 'Oregon voters passed a ballot measure in 2020 that made possessing small amounts of drugs a ticket instead of a crime, and directed marijuana tax money to mental-health and addiction treatment. The treatment centers that were supposed to handle the people being diverted weren’t ready in time. It got rolled back in 2024.'
+        eli5: 'Oregon voters passed a ballot measure in 2020 that made possessing small amounts of drugs a ticket instead of a crime, and directed marijuana tax money to mental-health and addiction treatment. The treatment centers that were supposed to handle the people being diverted weren’t ready in time. It got rolled back in 2024.',
+        narrator: 'The policy was right. The sequencing was wrong.\n\nDecriminalize, and the person who would have been booked walks out with a hundred-dollar ticket and a phone number. The phone number only works if the Behavioral Health Resource Network on the other end exists, is staffed, and has a bed.\n\nBy 2023 the networks existed mostly on paper. The ticket went unpaid. The treatment went unprovided.\n\nVoters saw the first half of the design without the second half and concluded the design had failed. The design had not failed. The execution had. Confusing the two is how every good reform gets repealed.\n\nHold the distinction. The compartment opens. The room has to be ready.'
       },
       {
         title: 'Portland Street Response',
@@ -760,7 +770,8 @@ const rawParts = [
         body: 'Portland Street Response launched as a pilot in the Lents neighborhood in February 2021 and expanded citywide in 2022, dispatching an unarmed team of a paramedic and a mental-health worker. Portland State University’s Homelessness Research & Action Collaborative evaluations documented measurable reductions in police involvement for low-acuity mental-health and welfare-check calls.',
         citation: 'Portland State University. (2022–2024). *PSR Evaluation Reports*.',
         link: 'https://www.portland.gov/streetresponse',
-        eli5: 'Portland copied Eugene’s CAHOOTS program in 2021. When someone calls 911 about a person in mental distress who isn’t dangerous, a team of a paramedic and a mental-health worker shows up instead of police. Portland State University’s researchers have tracked the results and found fewer police calls and better outcomes.'
+        eli5: 'Portland copied Eugene’s CAHOOTS program in 2021. When someone calls 911 about a person in mental distress who isn’t dangerous, a team of a paramedic and a mental-health worker shows up instead of police. Portland State University’s researchers have tracked the results and found fewer police calls and better outcomes.',
+        narrator: 'Eugene proved the model in 1989. Portland caught up in 2021. The distance between those two facts is the whole problem.\n\nUnarmed paramedic. Unarmed mental-health worker. They show up for the person in distress. Fewer police calls. Fewer arrests. Lower cost per call. The evaluations say what the activists said they would.\n\nPortland is not the ceiling. It is the floor. Every city this size could have stood the program up in 1990. Most did not because a union contract did not, or a council member would not, or nobody asked.\n\nAsk. The research is decades old. The only variable left is whether the city chooses it.'
       },
       {
         title: 'HB 4002',
@@ -769,7 +780,8 @@ const rawParts = [
         body: 'Governor Kotek signed HB 4002 on April 1, 2024, effective September 2024. Personal drug possession is again a Class A misdemeanor, but with a "deflection" path: law enforcement can refer individuals to treatment in lieu of prosecution at the county’s discretion. The treatment capacity that Measure 110 had been funding was not yet at scale when the rollback arrived.',
         citation: 'Oregon HB 4002 (2024 regular session).',
         link: 'https://olis.oregonlegislature.gov/liz/2024R1/Measures/Overview/HB4002',
-        eli5: 'Oregon’s legislature rolled back Measure 110 in early 2024. Small drug possession is a misdemeanor again, though the new law tries to send people to treatment instead of jail. The treatment system Measure 110 was supposed to build wasn’t fully online when the rollback happened.'
+        eli5: 'Oregon’s legislature rolled back Measure 110 in early 2024. Small drug possession is a misdemeanor again, though the new law tries to send people to treatment instead of jail. The treatment system Measure 110 was supposed to build wasn’t fully online when the rollback happened.',
+        narrator: 'The state admitted the sequencing failed. That is not the same as admitting the idea was wrong.\n\nHB 4002 put the misdemeanor back but kept a deflection path. A sheriff can send the person to treatment instead of court, if the treatment exists.\n\nThat last clause is the whole bill. Measure 110 tried to build the treatment before requiring the misdemeanor. HB 4002 is trying again with the misdemeanor attached as a stick. Neither version is finished. Both versions depend on the same thing — capacity Oregon has never fully built.\n\nThe rollback is triage, not repentance. Keep the deflection thread alive. The next bill will need it.\n\nThe pattern at the state scale is the pattern at the personal scale. The compartment comes down the moment a better structure is ready. Never before.'
       }
     ]
   },

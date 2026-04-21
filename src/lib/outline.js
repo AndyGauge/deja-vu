@@ -552,7 +552,8 @@ const rawParts = [
         body: 'Taub’s protocol constrains the intact limb of a chronic stroke patient for two weeks while forcing the impaired limb into intensive practice. Randomized trials showed significant and durable functional recovery in patients years past their purported window for rehabilitation. The protocol turned plasticity from observation into intervention.',
         citation: 'Taub, E. et al. (1993). *Archives of Physical Medicine and Rehabilitation*, 74(4), 347–354.',
         link: 'https://en.wikipedia.org/wiki/Constraint-induced_movement_therapy',
-        eli5: 'Edward Taub built a stroke-recovery method. You tie the patient’s good arm in a sling so they can’t use it, and force them to use the weak arm for six hours a day for two weeks. Patients who’d been told they’d never get their arm back regained real function. The brain rewires when you force it to.'
+        eli5: 'Edward Taub built a stroke-recovery method. You tie the patient’s good arm in a sling so they can’t use it, and force them to use the weak arm for six hours a day for two weeks. Patients who’d been told they’d never get their arm back regained real function. The brain rewires when you force it to.',
+        narrator: 'Taub’s stroke patients favored their good side. Of course they did. The trauma took one route; the body went around. The mind does the same thing. When the direct path to a memory is blocked, the mind builds a narrative around the block — a false structure that integrates with the reality you experience. It is coping. It is not random. It is the path of least resistance. Application developers have learned to leverage that coping, with algorithms and science, to keep you addicted. Taub’s protocol was the opposite. Constrain the easy side. Force the hard one. That is the shape of reprogramming at every scale.'
       }
     ]
   },

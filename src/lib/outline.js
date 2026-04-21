@@ -855,8 +855,8 @@ const rawParts = [
         title: 'Mercy, Not Malfunction',
         year: 2026,
         gesture: 'Déjà vu is the system checking itself. The resurfaced memory is the system asking to be seen. The rewrite is the answer the brain is built for.',
-        body: 'The book closes where it began. Every finding in the preceding eighty-four pages describes a mind engineered for its own repair — one that flags its own errors, holds its memories for editing, reorganizes its cortex under load, and responds to witness with measurable healing. The signal is not malfunction. It is mercy, built in. The protocols in this book are the reader’s invitation to answer it.',
-        citation: 'Synthesis of the preceding eighty-four citations.',
+        body: 'The book closes where it began. Every finding in the preceding eighty-five pages describes a mind engineered for its own repair — one that flags its own errors, holds its memories for editing, reorganizes its cortex under load, and responds to witness with measurable healing. The signal is not malfunction. It is mercy, built in. The protocols in this book are the reader’s invitation to answer it.',
+        citation: 'Synthesis of the preceding eighty-five citations.',
         link: '/contents',
         eli5: 'Here’s the short version of everything in this book: your brain is built to heal itself. Déjà vu is the brain checking its own work. A repressed memory coming back is the brain asking for attention. The urge to write about something painful is the brain using a built-in repair tool. The protocols in this book are ways to answer what your mind is already asking for.'
       }

@@ -2,7 +2,7 @@
 
 Research-driven. Science book. Sketched 2026-04-20, expanded iteratively.
 Each line is a gesture pointing at a finding, a researcher, or a study.
-Thirteen parts, seventy-four sections. One gesture per page in the design.
+Fourteen themes, eighty-six sections. One gesture per page in the design.
 
 ---
 

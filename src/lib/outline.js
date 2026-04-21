@@ -542,7 +542,8 @@ const rawParts = [
         body: 'Pascual-Leone’s group used transcranial magnetic stimulation to show that disrupting primary visual cortex in blind Braille readers impaired tactile reading. Later work blindfolded sighted volunteers for five days; visual cortex began responding to touch within that window. The cortex is assigned by use, not by address.',
         citation: 'Pascual-Leone, A. et al. (1993). *Brain*, 116(1), 39–52.',
         link: 'https://en.wikipedia.org/wiki/Alvaro_Pascual-Leone',
-        eli5: 'A Harvard neurologist showed that the part of the brain supposed to handle vision actually gets used for reading Braille in blind people. Later he blindfolded sighted people for five days — their visual cortex started responding to touch within that short window. The brain assigns space based on what you use, not a fixed blueprint.'
+        eli5: 'A Harvard neurologist showed that the part of the brain supposed to handle vision actually gets used for reading Braille in blind people. Later he blindfolded sighted people for five days — their visual cortex started responding to touch within that short window. The brain assigns space based on what you use, not a fixed blueprint.',
+        narrator: 'The ability to communicate is so ingrained that losing one channel opens another. Ever notice, in a foreign country, that you get what you need without speaking the language? The body gestures. The body points. The body draws the thing in the air. Blind readers repurpose their visual cortex for touch — Pascual-Leone measured it in millimeters. Same principle. A capacity, when its usual route is blocked, finds a new route. The brain is not just rewirable at the cortex level. The function itself migrates. The body is not built to be stopped.'
       },
       {
         title: 'Constraint-Induced Recovery',

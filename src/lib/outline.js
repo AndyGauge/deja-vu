@@ -52,7 +52,8 @@ const rawParts = [
         body: 'Brown synthesized four decades of déjà vu surveys for *Psychological Bulletin*. Roughly 60–80% of adults have experienced it at least once; frequency peaks in early adulthood and declines thereafter. The phenomenon maps onto a normal memory system, not a pathological one.',
         citation: 'Brown, A. S. (2003). *Psychological Bulletin*, 129(3), 394–413.',
         link: 'https://doi.org/10.1037/0033-2909.129.3.394',
-        eli5: 'Alan Brown gathered forty years of surveys about déjà vu. Most adults — roughly two-thirds to four-fifths — have had it at least once. It happens most in young adults and less as you age. It’s a sign of a normally working memory, not a problem.'
+        eli5: 'Alan Brown gathered forty years of surveys about déjà vu. Most adults — roughly two-thirds to four-fifths — have had it at least once. It happens most in young adults and less as you age. It’s a sign of a normally working memory, not a problem.',
+        narrator: 'What if your feelings of similarity are simply that — a feeling of similarity?\n\nIt is possible for healthy adults to experience this and not need to tackle a problem. Sixty to eighty percent is not a diagnosis. It is a normal brain doing its normal job of matching patterns.\n\nDon’t expect there to be trauma where there is none.\n\nIt is just as unhealthy to be convinced you are sick when you are well as it is to be sick. Maybe worse — the well person who insists on the wound manufactures the wound. The compartment gets built in order to be found.\n\nThis book is for the one who already knows something is locked away. Not for the one searching for something to lock.\n\nIf déjà vu is just déjà vu for you, put the book down smiling. That is also the finding.'
       }
     ]
   },

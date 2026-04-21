@@ -516,7 +516,7 @@ const rawParts = [
         citation: 'Kandel, E. R. (1970). *Scientific American*, 223(1), 57–67.',
         link: 'https://en.wikipedia.org/wiki/Eric_Kandel',
         eli5: 'Eric Kandel studied a sea slug because its brain has big, easy-to-see neurons. He showed that when the slug learns something, the connection points between its neurons physically change. This was one of the first times anyone proved that memory is an actual physical change in the brain. He shared a Nobel for it in 2000.',
-        narrator: 'Memory is physical. Protein. Synapse. Shape. Kandel proved it in a sea slug. The thing you are holding — the thing you packed away, the thing that is locked — is material. That means it is reshapable. The rest of this book is the manual.'
+        narrator: 'Memory is physical. Protein. Synapse. Shape. Kandel did not start with a human brain. He started with a sea slug — *Aplysia californica* — because its neurons are large and countable. Biology lets us look at a similar-shaped problem at a much more understandable scale. With the simplified view, the pattern is visible. This book tries the same move: take deep science and render it on a page, so the shape can be seen. Reprogramming uses the same method. You do not rewrite the whole story at once. You take one small part — one memory, one belief, one charge — and rewrite it. The sea slug was observed learning. So can you.'
       },
       {
         title: 'Cortical Remapping',

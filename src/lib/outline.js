@@ -855,7 +855,8 @@ const rawParts = [
         body: 'When your partner, child, or friend makes a small request for attention — a comment, a look, a question — pause the current task and respond. Any response that registers the bid counts. Couples who turn toward 86% of the time stay together. The protocol is simple, the evidence base substantial, and the margin accumulates across thousands of micro-decisions.',
         citation: 'Gottman, J. M. & Silver, N. (1999). *The Seven Principles*. Crown.',
         link: 'https://www.gottman.com/blog/turn-toward-instead-of-away/',
-        eli5: 'When your partner, kid, or friend makes a small bid for attention — says something, glances at you, asks a little question — pause and respond. Even a quick nod counts. It sounds too simple to matter. It is the single biggest predictor of whether a marriage lasts.'
+        eli5: 'When your partner, kid, or friend makes a small bid for attention — says something, glances at you, asks a little question — pause and respond. Even a quick nod counts. It sounds too simple to matter. It is the single biggest predictor of whether a marriage lasts.',
+        narrator: 'Reading this research demonstrates exactly how small a change is required. And how effortless it really is. When someone matters to you, turn toward them. That physical turning speaks more than the words you say. Look up from the screen. Face the person. Close the laptop. Set down the phone. The body decides what the conversation is about before the mouth does. Gottman measured the statistic. The statistic is you turning.'
       },
       {
         title: 'Grounding in Identity',

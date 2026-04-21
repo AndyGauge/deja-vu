@@ -441,7 +441,8 @@ const rawParts = [
         body: 'Ferster and Skinner catalogued how reward patterns shape behavior across 40,000 hours of animal conditioning. The variable-ratio schedule — unpredictable payoffs averaging to a rate — proved the most resistant to extinction. The schedule powers slot machines, fishing, and every consumer feed designed to hold attention.',
         citation: 'Ferster, C. B. & Skinner, B. F. (1957). *Schedules of Reinforcement*. Appleton-Century-Crofts.',
         link: 'https://en.wikipedia.org/wiki/Reinforcement',
-        eli5: 'B. F. Skinner studied how rewards shape behavior. The strongest kind of reward-chasing happens when the reward is unpredictable — sometimes you get it, sometimes you don’t. Slot machines, fishing, and every social-media feed use this exact trick to keep you pulling the lever.'
+        eli5: 'B. F. Skinner studied how rewards shape behavior. The strongest kind of reward-chasing happens when the reward is unpredictable — sometimes you get it, sometimes you don’t. Slot machines, fishing, and every social-media feed use this exact trick to keep you pulling the lever.',
+        narrator: 'Variable-ratio is the most addictive reward shape in nature. Skinner proved it in the lab. Every consumer feed now uses it. For someone carrying unfelt material, this is not a neutral fact. The feed does not cause the dissociation. It pays you in dopamine, unpredictably, for not stopping. Every pull of the lever is a small reward for not sitting with what is waiting underneath. What this book asks of you is the opposite of what the feed pays for. Put the lever down long enough to feel what you have been holding.'
       },
       {
         title: 'The 2012 Inflection',

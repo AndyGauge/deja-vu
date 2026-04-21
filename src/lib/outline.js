@@ -666,7 +666,8 @@ const rawParts = [
         body: 'Gottman and Silver’s *Seven Principles for Making Marriage Work* named the "emotional bid" — a small verbal or nonverbal request for attention. In longitudinal data, durably married couples responded to bids with attention 86% of the time; couples heading toward divorce responded 33%. The accumulation of micro-decisions drives the macro outcome.',
         citation: 'Gottman, J. M. & Silver, N. (1999). *The Seven Principles for Making Marriage Work*. Crown.',
         link: 'https://www.gottman.com/blog/turn-toward-instead-of-away/',
-        eli5: 'Gottman noticed that couples constantly make small bids for each other’s attention — a look, a comment, a question. Happy couples respond to those bids about 86% of the time. Unhappy couples respond about a third of the time. Over thousands of tiny moments, the math adds up.'
+        eli5: 'Gottman noticed that couples constantly make small bids for each other’s attention — a look, a comment, a question. Happy couples respond to those bids about 86% of the time. Unhappy couples respond about a third of the time. Over thousands of tiny moments, the math adds up.',
+        narrator: 'This demonstrates the importance of body language. You can be in the room with someone and not be present. Gottman’s 86% is not only about whether you answer. It is about where you are looking when they speak. The small nods. The small ticks that show engagement. When your attention is in the back of your mind — on something unprocessed, on a phone, on a worry — those signals stop. The person you are with reads your absence before a word is exchanged. It might seem obvious. It might seem unconventional. There is usually not much middle ground. Becoming aware of where you are looking when someone is talking to you shows what you are paying attention to.'
       },
       {
         title: 'Metacognitive Distance',

@@ -880,7 +880,7 @@ const rawParts = [
         link: 'https://en.wikipedia.org/wiki/Carl_Rogers',
         quote: 'For constructive personality change to occur, it is necessary that these conditions exist and continue over a period of time.',
         eli5: 'Carl Rogers was a therapist who figured out what actually makes therapy work. It’s not clever techniques — it’s how the therapist listens: without judgment, trying to understand the person fully. Decades of research keep showing this kind of listening matters more than any specific method.',
-        narrator: 'Rogers named what mediates outcomes. Not technique. Not credentials. The room in which a person is witnessed without judgment. That room is the active ingredient of every protocol in this book. If a counselor you try cannot give you that room, keep looking. The room is the intervention. Everything else is delivery.'
+        narrator: 'Rogers named what mediates outcomes. Not technique. Not credentials. Not walls. He named three conditions: a person being real with you, holding you without judgment, and trying to understand what you actually mean. Those three can happen at a kitchen table. On a porch. On a hike. By a friend. Clinical training is one way to deliver them. It is not the only way. If someone in your life can do the three, they are the witness. The witness is accessible. You do not have to pay for it.'
       },
       {
         title: 'Mercy, Not Malfunction',

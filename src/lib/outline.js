@@ -256,7 +256,8 @@ const rawParts = [
         body: 'The federal Act tied state child-welfare grants to compliance with mandatory-reporter laws. Every state enacted statutes; the reporter class grew steadily. Teachers, clinicians, daycare workers, in many states clergy, are now legally obligated to report suspected abuse. The reporter class is most of the helping professions.',
         citation: 'Child Abuse Prevention and Treatment Act of 1974, Pub. L. 93-247.',
         link: 'https://www.congress.gov/bill/93rd-congress/senate-bill/1191',
-        eli5: 'In 1974 Congress passed a law saying states only get federal money for child welfare if they require certain workers — teachers, doctors, therapists, and in many places pastors — to report any suspicion of child abuse. That’s why if you tell your therapist certain things about kids, they’re required by law to call authorities.'
+        eli5: 'In 1974 Congress passed a law saying states only get federal money for child welfare if they require certain workers — teachers, doctors, therapists, and in many places pastors — to report any suspicion of child abuse. That’s why if you tell your therapist certain things about kids, they’re required by law to call authorities.',
+        narrator: 'When I went to therapy I confessed to being blacked out and coming to and seeing bruises. That is all you need to say to have Child Protective Services come into your house and treat it like a crime scene and you like a defendant. That is the protocol. It is not designed to stop people from seeking therapy. It is institutionally effective at doing so anyway. The law names the trigger words. What those words chill is the part the law does not measure.'
       },
       {
         title: 'Disclosure Suppression',
